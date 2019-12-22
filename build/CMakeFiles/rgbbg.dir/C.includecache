@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/notcurses.h
+time.h
+-
+uchar.h
+-
+wchar.h
+-
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+stdarg.h
+-
+string.h
+-
+signal.h
+-
+stdbool.h
+-
+libavutil/pixdesc.h
+-
+libavutil/avconfig.h
+-
+libavcodec/avcodec.h
+-
+
+/home/dank/src/dankamongmen/notcurses-1.0.0/src/poc/rgbbg.c
+stdio.h
+-
+stdlib.h
+-
+locale.h
+-
+notcurses.h
+-
+

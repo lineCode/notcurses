@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/notcurses-view.dir/src/view/view.cpp.o  -o notcurses-view  -L/usr/local/lib -Wl,-rpath,/usr/local/lib:/home/dank/src/dankamongmen/notcurses-1.0.0/build: libnotcurses.so.0.9.2 -lavutil -lva-drm -lva -lva-x11 -lva -lvdpau -lX11 -lm -lva -lXv -lX11 -lXext -ldl -lva -lva-x11 -lvdpau -lm -lXv -lXext -ldl 

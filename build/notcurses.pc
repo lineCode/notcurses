@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=${prefix}/lib
+includedir=${prefix}/include
+￼	
+Name: notcurses
+Description: TUI library for modern terminal emulators
+Version: 0.9.2
+￼	
+Requires:
+Libs: -L${libdir} -lnotcurses
+Cflags: -I${includedir}

@@ -1,0 +1,1006 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+API	../include/notcurses.h	/^#define API /;"	d
+BLOCKSIZE	../src/demo/unicodeblocks.c	/^#define BLOCKSIZE /;"	d	file:
+BPREFIXFMT	../include/notcurses.h	/^#define BPREFIXFMT /;"	d
+BPREFIXSTRLEN	../include/notcurses.h	/^#define BPREFIXSTRLEN /;"	d
+BoxPermutationsRounded	../tests/ncplane.cpp	/^  void BoxPermutationsRounded(unsigned edges) {$/;"	f	class:NcplaneTest	typeref:typename:void	file:
+CCCflag	../src/lib/internal.h	/^  bool CCCflag;   \/\/ terminfo-reported "CCC" flag for palette set capability$/;"	m	struct:notcurses	typeref:typename:bool
+CELL_ALPHA_BLEND	../include/notcurses.h	/^#define CELL_ALPHA_BLEND /;"	d
+CELL_ALPHA_HIGHCONTRAST	../include/notcurses.h	/^#define CELL_ALPHA_HIGHCONTRAST /;"	d
+CELL_ALPHA_MASK	../include/notcurses.h	/^#define CELL_ALPHA_MASK /;"	d
+CELL_ALPHA_OPAQUE	../include/notcurses.h	/^#define CELL_ALPHA_OPAQUE /;"	d
+CELL_ALPHA_SHIFT	../include/notcurses.h	/^#define CELL_ALPHA_SHIFT /;"	d
+CELL_ALPHA_TRANSPARENT	../include/notcurses.h	/^#define CELL_ALPHA_TRANSPARENT /;"	d
+CELL_BGDEFAULT_MASK	../include/notcurses.h	/^#define CELL_BGDEFAULT_MASK /;"	d
+CELL_BG_MASK	../include/notcurses.h	/^#define CELL_BG_MASK /;"	d
+CELL_FGDEFAULT_MASK	../include/notcurses.h	/^#define CELL_FGDEFAULT_MASK /;"	d
+CELL_FG_MASK	../include/notcurses.h	/^#define CELL_FG_MASK /;"	d
+CELL_INITIALIZER	../include/notcurses.h	/^#define CELL_INITIALIZER(/;"	d
+CELL_SIMPLE_INITIALIZER	../include/notcurses.h	/^#define CELL_SIMPLE_INITIALIZER(/;"	d
+CELL_STYLE_BLINK	../include/notcurses.h	/^#define CELL_STYLE_BLINK /;"	d
+CELL_STYLE_BOLD	../include/notcurses.h	/^#define CELL_STYLE_BOLD /;"	d
+CELL_STYLE_DIM	../include/notcurses.h	/^#define CELL_STYLE_DIM /;"	d
+CELL_STYLE_INVIS	../include/notcurses.h	/^#define CELL_STYLE_INVIS /;"	d
+CELL_STYLE_ITALIC	../include/notcurses.h	/^#define CELL_STYLE_ITALIC /;"	d
+CELL_STYLE_MASK	../include/notcurses.h	/^#define CELL_STYLE_MASK /;"	d
+CELL_STYLE_PROTECT	../include/notcurses.h	/^#define CELL_STYLE_PROTECT /;"	d
+CELL_STYLE_REVERSE	../include/notcurses.h	/^#define CELL_STYLE_REVERSE /;"	d
+CELL_STYLE_STANDOUT	../include/notcurses.h	/^#define CELL_STYLE_STANDOUT /;"	d
+CELL_STYLE_UNDERLINE	../include/notcurses.h	/^#define CELL_STYLE_UNDERLINE /;"	d
+CELL_TRIVIAL_INITIALIZER	../include/notcurses.h	/^#define CELL_TRIVIAL_INITIALIZER /;"	d
+CELL_WIDEASIAN_MASK	../include/notcurses.h	/^#define CELL_WIDEASIAN_MASK /;"	d
+CHUNKSIZE	../src/demo/unicodeblocks.c	/^#define CHUNKSIZE /;"	d	file:
+CHUNKS_HORZ	../src/demo/sliding.c	/^#define CHUNKS_HORZ /;"	d	file:
+CHUNKS_VERT	../src/demo/sliding.c	/^#define CHUNKS_VERT /;"	d	file:
+CSIPREFIX	../src/lib/input.c	/^#define CSIPREFIX /;"	d	file:
+CellTest	../tests/cell.cpp	/^class CellTest : public :: testing::Test {$/;"	c	file:
+ChannelTest	../tests/channel.cpp	/^class ChannelTest : public :: testing::Test {$/;"	c	file:
+DEFAULT_DEMO	../src/demo/demo.c	/^static const char DEFAULT_DEMO[] = "ixemlubgswvpo";$/;"	v	typeref:typename:const char[]	file:
+DISABLE_ALTCHARSET	../src/poc/sgr.c	/^#define DISABLE_ALTCHARSET /;"	d	file:
+EGCPoolTest	../tests/egcpool.cpp	/^class EGCPoolTest : public :: testing::Test {$/;"	c	file:
+ESC	../src/lib/input.c	/^static const unsigned char ESC = 0x1b; \/\/ 27$/;"	v	typeref:typename:const unsigned char	file:
+ESC	../src/lib/notcurses.c	/^#define ESC /;"	d	file:
+EnmetricTest	../tests/enmetric.cpp	/^class EnmetricTest : public :: testing::Test {$/;"	c	file:
+FadeTest	../tests/fade.cpp	/^class FadeTest : public :: testing::Test {$/;"	c	file:
+GIG	../src/demo/demo.h	/^#define GIG /;"	d
+GTEST_SKIP	../tests/main.h	/^#define GTEST_SKIP(/;"	d
+IMGALLOCALIGN	../src/lib/libav.c	/^#define IMGALLOCALIGN /;"	d	file:
+INITIAL_TABLET_COUNT	../src/demo/panelreel.c	/^#define INITIAL_TABLET_COUNT /;"	d	file:
+IPREFIXFMT	../include/notcurses.h	/^#define IPREFIXFMT /;"	d
+IPREFIXSTRLEN	../include/notcurses.h	/^#define IPREFIXSTRLEN /;"	d
+ITERATIONS	../src/demo/boxdemo.c	/^#define ITERATIONS /;"	d	file:
+InputTest	../tests/input.cpp	/^class InputTest : public :: testing::Test {$/;"	c	file:
+InternalsTest	../tests/internal.cpp	/^class InternalsTest : public :: testing::Test {$/;"	c	file:
+LibavTest	../tests/libav.cpp	/^class LibavTest : public :: testing::Test {$/;"	c	file:
+MIN_SUPPORTED_COLS	../src/demo/demo.c	/^static const int MIN_SUPPORTED_COLS = 80;$/;"	v	typeref:typename:const int	file:
+MIN_SUPPORTED_ROWS	../src/demo/demo.c	/^static const int MIN_SUPPORTED_ROWS = 24;$/;"	v	typeref:typename:const int	file:
+MOVES	../src/demo/sliding.c	/^#define MOVES /;"	d	file:
+NANOSECS_IN_SEC	../src/lib/internal.h	/^#define NANOSECS_IN_SEC /;"	d
+NCALIGN_CENTER	../include/notcurses.h	/^  NCALIGN_CENTER,$/;"	e	enum:__anon4422f1ff0103
+NCALIGN_LEFT	../include/notcurses.h	/^  NCALIGN_LEFT,$/;"	e	enum:__anon4422f1ff0103
+NCALIGN_RIGHT	../include/notcurses.h	/^  NCALIGN_RIGHT,$/;"	e	enum:__anon4422f1ff0103
+NCBOXCORNER_MASK	../include/notcurses.h	/^#define NCBOXCORNER_MASK /;"	d
+NCBOXCORNER_SHIFT	../include/notcurses.h	/^#define NCBOXCORNER_SHIFT /;"	d
+NCBOXGRAD_BOTTOM	../include/notcurses.h	/^#define NCBOXGRAD_BOTTOM /;"	d
+NCBOXGRAD_LEFT	../include/notcurses.h	/^#define NCBOXGRAD_LEFT /;"	d
+NCBOXGRAD_RIGHT	../include/notcurses.h	/^#define NCBOXGRAD_RIGHT /;"	d
+NCBOXGRAD_TOP	../include/notcurses.h	/^#define NCBOXGRAD_TOP /;"	d
+NCBOXMASK_BOTTOM	../include/notcurses.h	/^#define NCBOXMASK_BOTTOM /;"	d
+NCBOXMASK_LEFT	../include/notcurses.h	/^#define NCBOXMASK_LEFT /;"	d
+NCBOXMASK_RIGHT	../include/notcurses.h	/^#define NCBOXMASK_RIGHT /;"	d
+NCBOXMASK_TOP	../include/notcurses.h	/^#define NCBOXMASK_TOP /;"	d
+NCKEY_BACKSPACE	../include/notcurses.h	/^#define NCKEY_BACKSPACE /;"	d
+NCKEY_BEGIN	../include/notcurses.h	/^#define NCKEY_BEGIN /;"	d
+NCKEY_BUTTON1	../include/notcurses.h	/^#define NCKEY_BUTTON1 /;"	d
+NCKEY_BUTTON10	../include/notcurses.h	/^#define NCKEY_BUTTON10 /;"	d
+NCKEY_BUTTON11	../include/notcurses.h	/^#define NCKEY_BUTTON11 /;"	d
+NCKEY_BUTTON2	../include/notcurses.h	/^#define NCKEY_BUTTON2 /;"	d
+NCKEY_BUTTON3	../include/notcurses.h	/^#define NCKEY_BUTTON3 /;"	d
+NCKEY_BUTTON4	../include/notcurses.h	/^#define NCKEY_BUTTON4 /;"	d
+NCKEY_BUTTON5	../include/notcurses.h	/^#define NCKEY_BUTTON5 /;"	d
+NCKEY_BUTTON6	../include/notcurses.h	/^#define NCKEY_BUTTON6 /;"	d
+NCKEY_BUTTON7	../include/notcurses.h	/^#define NCKEY_BUTTON7 /;"	d
+NCKEY_BUTTON8	../include/notcurses.h	/^#define NCKEY_BUTTON8 /;"	d
+NCKEY_BUTTON9	../include/notcurses.h	/^#define NCKEY_BUTTON9 /;"	d
+NCKEY_CANCEL	../include/notcurses.h	/^#define NCKEY_CANCEL /;"	d
+NCKEY_CENTER	../include/notcurses.h	/^#define NCKEY_CENTER /;"	d
+NCKEY_CLOSE	../include/notcurses.h	/^#define NCKEY_CLOSE /;"	d
+NCKEY_CLS	../include/notcurses.h	/^#define NCKEY_CLS /;"	d
+NCKEY_COMMAND	../include/notcurses.h	/^#define NCKEY_COMMAND /;"	d
+NCKEY_COPY	../include/notcurses.h	/^#define NCKEY_COPY /;"	d
+NCKEY_CSI	../src/lib/input.c	/^static const char32_t NCKEY_CSI = 1;$/;"	v	typeref:typename:const char32_t	file:
+NCKEY_DEL	../include/notcurses.h	/^#define NCKEY_DEL /;"	d
+NCKEY_DLEFT	../include/notcurses.h	/^#define NCKEY_DLEFT /;"	d
+NCKEY_DOWN	../include/notcurses.h	/^#define NCKEY_DOWN /;"	d
+NCKEY_DRIGHT	../include/notcurses.h	/^#define NCKEY_DRIGHT /;"	d
+NCKEY_END	../include/notcurses.h	/^#define NCKEY_END /;"	d
+NCKEY_ENTER	../include/notcurses.h	/^#define NCKEY_ENTER /;"	d
+NCKEY_EXIT	../include/notcurses.h	/^#define NCKEY_EXIT /;"	d
+NCKEY_F00	../include/notcurses.h	/^#define NCKEY_F00 /;"	d
+NCKEY_F01	../include/notcurses.h	/^#define NCKEY_F01 /;"	d
+NCKEY_F02	../include/notcurses.h	/^#define NCKEY_F02 /;"	d
+NCKEY_F03	../include/notcurses.h	/^#define NCKEY_F03 /;"	d
+NCKEY_F04	../include/notcurses.h	/^#define NCKEY_F04 /;"	d
+NCKEY_F05	../include/notcurses.h	/^#define NCKEY_F05 /;"	d
+NCKEY_F06	../include/notcurses.h	/^#define NCKEY_F06 /;"	d
+NCKEY_F07	../include/notcurses.h	/^#define NCKEY_F07 /;"	d
+NCKEY_F08	../include/notcurses.h	/^#define NCKEY_F08 /;"	d
+NCKEY_F09	../include/notcurses.h	/^#define NCKEY_F09 /;"	d
+NCKEY_F10	../include/notcurses.h	/^#define NCKEY_F10 /;"	d
+NCKEY_F11	../include/notcurses.h	/^#define NCKEY_F11 /;"	d
+NCKEY_F12	../include/notcurses.h	/^#define NCKEY_F12 /;"	d
+NCKEY_F13	../include/notcurses.h	/^#define NCKEY_F13 /;"	d
+NCKEY_F14	../include/notcurses.h	/^#define NCKEY_F14 /;"	d
+NCKEY_F15	../include/notcurses.h	/^#define NCKEY_F15 /;"	d
+NCKEY_F16	../include/notcurses.h	/^#define NCKEY_F16 /;"	d
+NCKEY_F17	../include/notcurses.h	/^#define NCKEY_F17 /;"	d
+NCKEY_F18	../include/notcurses.h	/^#define NCKEY_F18 /;"	d
+NCKEY_F19	../include/notcurses.h	/^#define NCKEY_F19 /;"	d
+NCKEY_F20	../include/notcurses.h	/^#define NCKEY_F20 /;"	d
+NCKEY_F21	../include/notcurses.h	/^#define NCKEY_F21 /;"	d
+NCKEY_F22	../include/notcurses.h	/^#define NCKEY_F22 /;"	d
+NCKEY_F23	../include/notcurses.h	/^#define NCKEY_F23 /;"	d
+NCKEY_F24	../include/notcurses.h	/^#define NCKEY_F24 /;"	d
+NCKEY_F25	../include/notcurses.h	/^#define NCKEY_F25 /;"	d
+NCKEY_F26	../include/notcurses.h	/^#define NCKEY_F26 /;"	d
+NCKEY_F27	../include/notcurses.h	/^#define NCKEY_F27 /;"	d
+NCKEY_F28	../include/notcurses.h	/^#define NCKEY_F28 /;"	d
+NCKEY_F29	../include/notcurses.h	/^#define NCKEY_F29 /;"	d
+NCKEY_F30	../include/notcurses.h	/^#define NCKEY_F30 /;"	d
+NCKEY_HOME	../include/notcurses.h	/^#define NCKEY_HOME /;"	d
+NCKEY_INS	../include/notcurses.h	/^#define NCKEY_INS /;"	d
+NCKEY_INVALID	../include/notcurses.h	/^#define NCKEY_INVALID /;"	d
+NCKEY_LEFT	../include/notcurses.h	/^#define NCKEY_LEFT /;"	d
+NCKEY_PGDOWN	../include/notcurses.h	/^#define NCKEY_PGDOWN /;"	d
+NCKEY_PGUP	../include/notcurses.h	/^#define NCKEY_PGUP /;"	d
+NCKEY_PRINT	../include/notcurses.h	/^#define NCKEY_PRINT /;"	d
+NCKEY_REFRESH	../include/notcurses.h	/^#define NCKEY_REFRESH /;"	d
+NCKEY_RELEASE	../include/notcurses.h	/^#define NCKEY_RELEASE /;"	d
+NCKEY_RESIZE	../include/notcurses.h	/^#define NCKEY_RESIZE /;"	d
+NCKEY_RIGHT	../include/notcurses.h	/^#define NCKEY_RIGHT /;"	d
+NCKEY_ULEFT	../include/notcurses.h	/^#define NCKEY_ULEFT /;"	d
+NCKEY_UP	../include/notcurses.h	/^#define NCKEY_UP /;"	d
+NCKEY_URIGHT	../include/notcurses.h	/^#define NCKEY_URIGHT /;"	d
+NCSCALE_NONE	../include/notcurses.h	/^  NCSCALE_NONE,$/;"	e	enum:__anon4422f1ff0203
+NCSCALE_SCALE	../include/notcurses.h	/^  NCSCALE_SCALE,$/;"	e	enum:__anon4422f1ff0203
+NCSCALE_STRETCH	../include/notcurses.h	/^  NCSCALE_STRETCH,$/;"	e	enum:__anon4422f1ff0203
+NOTCURSES_DEMO	../src/demo/demo.h	/^#define NOTCURSES_DEMO$/;"	d
+NOTCURSES_EGCPOOL	../src/lib/egcpool.h	/^#define NOTCURSES_EGCPOOL$/;"	d
+NOTCURSES_INTERNAL	../src/lib/internal.h	/^#define NOTCURSES_INTERNAL$/;"	d
+NOTCURSES_NOTCURSES	../include/notcurses.h	/^#define NOTCURSES_NOTCURSES$/;"	d
+NOTCURSES_TEST_MAIN	../tests/main.h	/^#define NOTCURSES_TEST_MAIN$/;"	d
+NOTCURSES_VERSION	../src/lib/notcurses.c	/^static const char NOTCURSES_VERSION[] =$/;"	v	typeref:typename:const char[]	file:
+NcplaneTest	../tests/ncplane.cpp	/^class NcplaneTest : public :: testing::Test {$/;"	c	file:
+NotcursesTest	../tests/notcurses.cpp	/^class NotcursesTest : public :: testing::Test {$/;"	c	file:
+PARAM1	../src/lib/input.c	/^    PARAM1,  \/\/ reading first param (button + modifiers) plus delimiter$/;"	e	enum:handle_csi::__anonb03b5a4e0103	file:
+PARAM2	../src/lib/input.c	/^    PARAM2,  \/\/ reading second param (x coordinate) plus delimiter$/;"	e	enum:handle_csi::__anonb03b5a4e0103	file:
+PARAM3	../src/lib/input.c	/^    PARAM3,  \/\/ reading third param (y coordinate) plus terminator$/;"	e	enum:handle_csi::__anonb03b5a4e0103	file:
+POOL_MINIMUM_ALLOC	../src/lib/egcpool.h	/^#define POOL_MINIMUM_ALLOC /;"	d
+PR	../src/planereel/main.cpp	/^static struct panelreel* PR;$/;"	v	typeref:struct:panelreel *	file:
+PREFIXFMT	../include/notcurses.h	/^#define PREFIXFMT /;"	d
+PREFIXSTRLEN	../include/notcurses.h	/^#define PREFIXSTRLEN /;"	d
+PanelReelTest	../tests/panelreel.cpp	/^class PanelReelTest : public :: testing::Test {$/;"	c	file:
+RESTRICT	../include/notcurses.h	/^#define RESTRICT$/;"	d
+RGBESC1	../src/lib/render.c	/^  #define RGBESC1 /;"	d	file:
+RGBESC2	../src/lib/render.c	/^  #define RGBESC2 /;"	d	file:
+RGBflag	../src/lib/internal.h	/^  bool RGBflag;   \/\/ terminfo-reported "RGB" flag for 24bpc directcolor$/;"	m	struct:notcurses	typeref:typename:bool
+SET_BTN_EVENT_MOUSE	../src/lib/notcurses.c	/^#define SET_BTN_EVENT_MOUSE /;"	d	file:
+SET_FOCUS_EVENT_MOUSE	../src/lib/notcurses.c	/^#define SET_FOCUS_EVENT_MOUSE /;"	d	file:
+SET_SGR_MODE_MOUSE	../src/lib/notcurses.c	/^#define SET_SGR_MODE_MOUSE /;"	d	file:
+STRHACK1	../include/notcurses.h	/^#define STRHACK1(/;"	d
+STRHACK2	../include/notcurses.h	/^#define STRHACK2(/;"	d
+SetUp	../tests/cell.cpp	/^  void SetUp() override {$/;"	f	class:CellTest	typeref:typename:void	file:
+SetUp	../tests/channel.cpp	/^  void SetUp() override {$/;"	f	class:ChannelTest	typeref:typename:void	file:
+SetUp	../tests/egcpool.cpp	/^  void SetUp() override {$/;"	f	class:EGCPoolTest	typeref:typename:void	file:
+SetUp	../tests/enmetric.cpp	/^  void SetUp() override {$/;"	f	class:EnmetricTest	typeref:typename:void	file:
+SetUp	../tests/fade.cpp	/^  void SetUp() override {$/;"	f	class:FadeTest	typeref:typename:void	file:
+SetUp	../tests/input.cpp	/^  void SetUp() override {$/;"	f	class:InputTest	typeref:typename:void	file:
+SetUp	../tests/internal.cpp	/^  void SetUp() override {$/;"	f	class:InternalsTest	typeref:typename:void	file:
+SetUp	../tests/libav.cpp	/^  void SetUp() override {$/;"	f	class:LibavTest	typeref:typename:void	file:
+SetUp	../tests/ncplane.cpp	/^  void SetUp() override {$/;"	f	class:NcplaneTest	typeref:typename:void	file:
+SetUp	../tests/notcurses.cpp	/^  void SetUp() override {$/;"	f	class:NotcursesTest	typeref:typename:void	file:
+SetUp	../tests/panelreel.cpp	/^  void SetUp() override {$/;"	f	class:PanelReelTest	typeref:typename:void	file:
+SetUp	../tests/zaxis.cpp	/^  void SetUp() override {$/;"	f	class:ZAxisTest	typeref:typename:void	file:
+TEST_F	../tests/cell.cpp	/^TEST_F(CellTest, CellSetBGAlpha){$/;"	f
+TEST_F	../tests/cell.cpp	/^TEST_F(CellTest, CellSetFGAlpha){$/;"	f
+TEST_F	../tests/cell.cpp	/^TEST_F(CellTest, LoadSimple) {$/;"	f
+TEST_F	../tests/cell.cpp	/^TEST_F(CellTest, SetBold) {$/;"	f
+TEST_F	../tests/cell.cpp	/^TEST_F(CellTest, SetItalic) {$/;"	f
+TEST_F	../tests/cell.cpp	/^TEST_F(CellTest, SetUnderline) {$/;"	f
+TEST_F	../tests/channel.cpp	/^TEST_F(ChannelTest, ChannelGetAlpha){$/;"	f
+TEST_F	../tests/channel.cpp	/^TEST_F(ChannelTest, ChannelGetDefault){$/;"	f
+TEST_F	../tests/channel.cpp	/^TEST_F(ChannelTest, ChannelGetRGB){$/;"	f
+TEST_F	../tests/channel.cpp	/^TEST_F(ChannelTest, ChannelSetDefault){$/;"	f
+TEST_F	../tests/egcpool.cpp	/^TEST_F(EGCPoolTest, AddAndRemove) {$/;"	f
+TEST_F	../tests/egcpool.cpp	/^TEST_F(EGCPoolTest, AddTwiceRemoveFirst) {$/;"	f
+TEST_F	../tests/egcpool.cpp	/^TEST_F(EGCPoolTest, AddTwiceRemoveSecond) {$/;"	f
+TEST_F	../tests/egcpool.cpp	/^TEST_F(EGCPoolTest, ForceReallocation) {$/;"	f
+TEST_F	../tests/egcpool.cpp	/^TEST_F(EGCPoolTest, ForceReallocationWithRemovals) {$/;"	f
+TEST_F	../tests/egcpool.cpp	/^TEST_F(EGCPoolTest, Initialized) {$/;"	f
+TEST_F	../tests/egcpool.cpp	/^TEST_F(EGCPoolTest, UTF8EGC) {$/;"	f
+TEST_F	../tests/egcpool.cpp	/^TEST_F(EGCPoolTest, UTF8EGCCombining) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, CornerInts) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, Maxints) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, Maxints1024) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, PowersOfTen) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, PowersOfTenAsTwos) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, PowersOfTenMinusOne) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, PowersOfTenMinusOneAsTwos) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, PowersOfTenNoDec) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, PowersOfTenPlusOne) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, PowersOfTwo) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, PowersOfTwoAsTens) {$/;"	f
+TEST_F	../tests/enmetric.cpp	/^TEST_F(EnmetricTest, PowersOfTwoNoDec) {$/;"	f
+TEST_F	../tests/fade.cpp	/^TEST_F(FadeTest, FadeIn) {$/;"	f
+TEST_F	../tests/fade.cpp	/^TEST_F(FadeTest, FadeOut) {$/;"	f
+TEST_F	../tests/input.cpp	/^TEST_F(InputTest, TestMouseOff){$/;"	f
+TEST_F	../tests/input.cpp	/^TEST_F(InputTest, TestMouseOn){$/;"	f
+TEST_F	../tests/internal.cpp	/^TEST_F(InternalsTest, RGBtoANSIBlack) {$/;"	f
+TEST_F	../tests/internal.cpp	/^TEST_F(InternalsTest, RGBtoANSIBlue) {$/;"	f
+TEST_F	../tests/internal.cpp	/^TEST_F(InternalsTest, RGBtoANSIGreen) {$/;"	f
+TEST_F	../tests/internal.cpp	/^TEST_F(InternalsTest, RGBtoANSIGrey) {$/;"	f
+TEST_F	../tests/internal.cpp	/^TEST_F(InternalsTest, RGBtoANSIRed) {$/;"	f
+TEST_F	../tests/internal.cpp	/^TEST_F(InternalsTest, RGBtoANSIWhite) {$/;"	f
+TEST_F	../tests/libav.cpp	/^TEST_F(LibavTest, LoadImage) {$/;"	f
+TEST_F	../tests/libav.cpp	/^TEST_F(LibavTest, LoadVideo) {$/;"	f
+TEST_F	../tests/libav.cpp	/^TEST_F(LibavTest, LoadVideoCreatePlane) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, AdjacentCharsSafe) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, BadlyPlacedBoxen) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, BoxGradients) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, BoxPermutationsDouble) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, BoxPermutationsRoundedOneEdges) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, BoxPermutationsRoundedThreeEdges) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, BoxPermutationsRoundedTwoEdges) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, BoxPermutationsRoundedZeroEdges) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, BoxSideColors) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, CellDuplicateCombining) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, CellLoadCombining) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, CellMultiColumn) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, EmitCell) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, EmitEmojiStr) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, EmitStr) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, EmitWchar) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, EmitWideStr) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, EraseScreen) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, GrowPlane) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, HorizontalLines) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, MoveBeyondPlaneFails) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, MoveStdPlaneDimensions) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, MoveToLowerRight) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, NewPlaneOnRight) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, NewPlaneSameSize) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, PerimeterDoubleBox) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, PerimeterDoubleBoxSized) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, PerimeterRoundedBox) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, PerimeterRoundedBoxSized) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, PlaneAtCursorAttrs){$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, PlaneAtCursorComplex){$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, PlaneAtCursorInsane){$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, PlaneAtCursorSimples){$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, RejectBadRGB) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, RightToLeft) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, SetPlaneRGB) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, ShrinkPlane) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, StdPlaneDimensions) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, StdPlanePosition) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, UserPtr) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, VerticalLines) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, WideCharAnnihilatesRight) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, WideCharAnnihilatesWideLeft) {$/;"	f
+TEST_F	../tests/ncplane.cpp	/^TEST_F(NcplaneTest, WideCharsAnnihilated) {$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, BasicLifetime) {$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, ChannelSetBGAlpha){$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, ChannelSetFGAlpha){$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, CursesStyles) {$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, NotcursesVersionString) {$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, RejectDestroyStdPlane) {$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, RejectMoveStdPlane) {$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, ResizeSameSize) {$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, Stats){$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, TermDimensions) {$/;"	f
+TEST_F	../tests/notcurses.cpp	/^TEST_F(NotcursesTest, TileScreenWithPlanes) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, BadBorderBitsRejected) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, BadTabletBorderBitsRejected) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, DeleteActiveTablet) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, FiniteCircleRejected) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, InitCircular) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, InitLinear) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, InitLinearInfinite) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, MovementWithOneTablet) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, MovementWithoutTablets) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, NoBorder) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, NoSideBorders) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, NoTabletBorder) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, NoTopBottomBorder) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, OneTablet) {$/;"	f
+TEST_F	../tests/panelreel.cpp	/^TEST_F(PanelReelTest, TransparentBackground) {$/;"	f
+TEST_F	../tests/zaxis.cpp	/^TEST_F(ZAxisTest, NewPlaneOnTop) {$/;"	f
+TEST_F	../tests/zaxis.cpp	/^TEST_F(ZAxisTest, NoMoveSelf) {$/;"	f
+TEST_F	../tests/zaxis.cpp	/^TEST_F(ZAxisTest, StdPlaneOnanism) {$/;"	f
+TEST_F	../tests/zaxis.cpp	/^TEST_F(ZAxisTest, StdPlaneOnly) {$/;"	f
+TEST_F	../tests/zaxis.cpp	/^TEST_F(ZAxisTest, TopToBottom) {$/;"	f
+TEST_F	../tests/zaxis.cpp	/^TEST_F(ZAxisTest, TopToTop) {$/;"	f
+TEST_F	../tests/zaxis.cpp	/^TEST_F(ZAxisTest, ZAxisDamage) {$/;"	f
+TabletCtx	../src/planereel/main.cpp	/^    TabletCtx() : lines(rand() % 5 + 3) {}$/;"	f	class:TabletCtx	file:
+TabletCtx	../src/planereel/main.cpp	/^class TabletCtx {$/;"	c	file:
+TearDown	../tests/cell.cpp	/^  void TearDown() override {$/;"	f	class:CellTest	typeref:typename:void	file:
+TearDown	../tests/egcpool.cpp	/^  void TearDown() override {$/;"	f	class:EGCPoolTest	typeref:typename:void	file:
+TearDown	../tests/enmetric.cpp	/^  void TearDown() override {$/;"	f	class:EnmetricTest	typeref:typename:void	file:
+TearDown	../tests/fade.cpp	/^  void TearDown() override {$/;"	f	class:FadeTest	typeref:typename:void	file:
+TearDown	../tests/input.cpp	/^  void TearDown() override {$/;"	f	class:InputTest	typeref:typename:void	file:
+TearDown	../tests/libav.cpp	/^  void TearDown() override {$/;"	f	class:LibavTest	typeref:typename:void	file:
+TearDown	../tests/ncplane.cpp	/^  void TearDown() override {$/;"	f	class:NcplaneTest	typeref:typename:void	file:
+TearDown	../tests/notcurses.cpp	/^  void TearDown() override {$/;"	f	class:NotcursesTest	typeref:typename:void	file:
+TearDown	../tests/panelreel.cpp	/^  void TearDown() override {$/;"	f	class:PanelReelTest	typeref:typename:void	file:
+TearDown	../tests/zaxis.cpp	/^  void TearDown() override {$/;"	f	class:ZAxisTest	typeref:typename:void	file:
+WCHAR_MAX_UTF8BYTES	../include/notcurses.h	/^#define WCHAR_MAX_UTF8BYTES /;"	d
+ZAxisTest	../tests/zaxis.cpp	/^class ZAxisTest : public :: testing::Test {$/;"	c	file:
+__anon4422f1ff0103	../include/notcurses.h	/^typedef enum {$/;"	g
+__anon4422f1ff0203	../include/notcurses.h	/^typedef enum {$/;"	g
+__anonb03b5a4e0103	../src/lib/input.c	/^  enum {$/;"	g	function:handle_csi	file:
+__anonb03b5a4e0208	../src/lib/input.c	/^  static const struct {$/;"	s	function:prep_special_keys	file:
+__anonf0080f910108	../src/demo/unicodeblocks.c	/^  const struct {$/;"	s	function:unicodeblocks_demo	file:
+a	../tests/channel.cpp	/^    int a;$/;"	m	struct:TEST_F::t	typeref:typename:int	file:
+absx	../src/lib/internal.h	/^  int absx, absy;       \/\/ origin of the plane relative to the screen$/;"	m	struct:ncplane	typeref:typename:int
+absy	../src/lib/internal.h	/^  int absx, absy;       \/\/ origin of the plane relative to the screen$/;"	m	struct:ncplane	typeref:typename:int
+advance_cursor	../src/lib/notcurses.c	/^advance_cursor(ncplane* n, int cols){$/;"	f	typeref:typename:void	file:
+all_visible	../src/lib/panelreel.c	/^  bool all_visible;$/;"	m	struct:panelreel	typeref:typename:bool	file:
+alloc_ncplane_palette	../src/lib/fade.c	/^alloc_ncplane_palette(ncplane* n, planepalette* pp){$/;"	f	typeref:typename:int	file:
+attrword	../include/notcurses.h	/^  uint32_t attrword;          \/\/ + 4b -> 8b$/;"	m	struct:cell	typeref:typename:uint32_t
+attrword	../src/lib/internal.h	/^  uint32_t attrword;    \/\/ same deal as in a cell$/;"	m	struct:ncplane	typeref:typename:uint32_t
+b	../tests/channel.cpp	/^    int r, g, b;$/;"	m	struct:TEST_F::t	typeref:typename:int	file:
+bgchannel	../include/notcurses.h	/^  uint64_t bgchannel;  \/\/ background colors$/;"	m	struct:panelreel_options	typeref:typename:uint64_t
+bgelidable	../src/lib/render.c	/^  bool bgelidable;$/;"	m	struct:renderstate	typeref:typename:bool	file:
+bgelisions	../include/notcurses.h	/^  uint64_t bgelisions;       \/\/ RGB bg elision count$/;"	m	struct:ncstats	typeref:typename:uint64_t
+bgemissions	../include/notcurses.h	/^  uint64_t bgemissions;      \/\/ RGB bg emissions$/;"	m	struct:ncstats	typeref:typename:uint64_t
+blink	../src/lib/internal.h	/^  char* blink;    \/\/ CELL_STYLE_BLINK$/;"	m	struct:notcurses	typeref:typename:char *
+block_on_input	../src/lib/input.c	/^block_on_input(FILE* fp, const struct timespec* ts, sigset_t* sigmask){$/;"	f	typeref:typename:int	file:
+blocking_write	../src/lib/render.c	/^blocking_write(int fd, const char* buf, size_t buflen){$/;"	f	typeref:typename:int	file:
+boff	../include/notcurses.h	/^  int toff, roff, boff, loff;$/;"	m	struct:panelreel_options	typeref:typename:int
+bold	../src/lib/internal.h	/^  char* bold;     \/\/ CELL_STYLE_BOLD$/;"	m	struct:notcurses	typeref:typename:char *
+borderchan	../include/notcurses.h	/^  uint64_t borderchan; \/\/ attributes used for panelreel border$/;"	m	struct:panelreel_options	typeref:typename:uint64_t
+bordermask	../include/notcurses.h	/^  unsigned bordermask; \/\/ bitfield; 1s will not be drawn (see bordermaskbits)$/;"	m	struct:panelreel_options	typeref:typename:unsigned
+box_corner_needs	../src/lib/notcurses.c	/^box_corner_needs(unsigned ctlword){$/;"	f	typeref:typename:unsigned	file:
+box_demo	../src/demo/boxdemo.c	/^int box_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+bprefix	../include/notcurses.h	/^bprefix(uintmax_t val, unsigned decimal, char *buf, int omitdec){$/;"	f	typeref:typename:const char *
+cbfxn	../src/lib/panelreel.c	/^  tabletcb cbfxn;              \/\/ application callback to draw tablet$/;"	m	struct:tablet	typeref:typename:tabletcb	file:
+ccell_set_bg_rgb	../src/demo/grid.c	/^ccell_set_bg_rgb(cell* c, int r, int g, int b){$/;"	f	typeref:typename:int	file:
+ccell_set_fg_rgb	../src/demo/grid.c	/^ccell_set_fg_rgb(cell* c, int r, int g, int b){$/;"	f	typeref:typename:int	file:
+cell	../include/notcurses.h	/^typedef struct cell {$/;"	s
+cell	../include/notcurses.h	/^} cell;$/;"	t	typeref:struct:cell
+cell_bg_default_p	../include/notcurses.h	/^cell_bg_default_p(const cell* cl){$/;"	f	typeref:typename:bool
+cell_double_wide_p	../include/notcurses.h	/^cell_double_wide_p(const cell* c){$/;"	f	typeref:typename:bool
+cell_duplicate	../src/lib/render.c	/^int cell_duplicate(ncplane* n, cell* targ, const cell* c){$/;"	f	typeref:typename:int
+cell_duplicate_far	../src/lib/render.c	/^cell_duplicate_far(egcpool* tpool, cell* targ, const ncplane* splane, const cell* c){$/;"	f	typeref:typename:int	file:
+cell_egc_copy	../src/lib/notcurses.c	/^cell_egc_copy(const ncplane* n, const cell* c){$/;"	f	typeref:typename:char *	file:
+cell_egc_idx	../include/notcurses.h	/^cell_egc_idx(const cell* c){$/;"	f	typeref:typename:uint32_t
+cell_extended_gcluster	../src/lib/notcurses.c	/^const char* cell_extended_gcluster(const struct ncplane* n, const cell* c){$/;"	f	typeref:typename:const char *
+cell_fg_default_p	../include/notcurses.h	/^cell_fg_default_p(const cell* cl){$/;"	f	typeref:typename:bool
+cell_get_bchannel	../include/notcurses.h	/^cell_get_bchannel(const cell* cl){$/;"	f	typeref:typename:unsigned
+cell_get_bg	../include/notcurses.h	/^cell_get_bg(const cell* cl){$/;"	f	typeref:typename:unsigned
+cell_get_bg_alpha	../include/notcurses.h	/^cell_get_bg_alpha(const cell* cl){$/;"	f	typeref:typename:unsigned
+cell_get_bg_rgb	../include/notcurses.h	/^cell_get_bg_rgb(const cell* cl, unsigned* r, unsigned* g, unsigned* b){$/;"	f	typeref:typename:unsigned
+cell_get_fchannel	../include/notcurses.h	/^cell_get_fchannel(const cell* cl){$/;"	f	typeref:typename:unsigned
+cell_get_fg	../include/notcurses.h	/^cell_get_fg(const cell* cl){$/;"	f	typeref:typename:unsigned
+cell_get_fg_alpha	../include/notcurses.h	/^cell_get_fg_alpha(const cell* cl){$/;"	f	typeref:typename:unsigned
+cell_get_fg_rgb	../include/notcurses.h	/^cell_get_fg_rgb(const cell* cl, unsigned* r, unsigned* g, unsigned* b){$/;"	f	typeref:typename:unsigned
+cell_init	../include/notcurses.h	/^cell_init(cell* c){$/;"	f	typeref:typename:void
+cell_load	../src/lib/notcurses.c	/^int cell_load(ncplane* n, cell* c, const char* gcluster){$/;"	f	typeref:typename:int
+cell_load_simple	../include/notcurses.h	/^cell_load_simple(struct ncplane* n, cell* c, char ch){$/;"	f	typeref:typename:int
+cell_obliterate	../src/lib/notcurses.c	/^cell_obliterate(ncplane* n, cell* c){$/;"	f	typeref:typename:void	file:
+cell_prime	../include/notcurses.h	/^cell_prime(struct ncplane* n, cell* c, const char *gcluster,$/;"	f	typeref:typename:int
+cell_release	../src/lib/render.c	/^void cell_release(ncplane* n, cell* c){$/;"	f	typeref:typename:void
+cell_set_bchannel	../include/notcurses.h	/^cell_set_bchannel(cell* cl, uint32_t channel){$/;"	f	typeref:typename:uint64_t
+cell_set_bg	../include/notcurses.h	/^cell_set_bg(cell* c, uint32_t channel){$/;"	f	typeref:typename:int
+cell_set_bg_alpha	../include/notcurses.h	/^cell_set_bg_alpha(cell* c, int alpha){$/;"	f	typeref:typename:int
+cell_set_bg_default	../include/notcurses.h	/^cell_set_bg_default(cell* c){$/;"	f	typeref:typename:void
+cell_set_bg_rgb	../include/notcurses.h	/^cell_set_bg_rgb(cell* cl, int r, int g, int b){$/;"	f	typeref:typename:int
+cell_set_fchannel	../include/notcurses.h	/^cell_set_fchannel(cell* cl, uint32_t channel){$/;"	f	typeref:typename:uint64_t
+cell_set_fg	../include/notcurses.h	/^cell_set_fg(cell* c, uint32_t channel){$/;"	f	typeref:typename:int
+cell_set_fg_alpha	../include/notcurses.h	/^cell_set_fg_alpha(cell* c, int alpha){$/;"	f	typeref:typename:int
+cell_set_fg_default	../include/notcurses.h	/^cell_set_fg_default(cell* c){$/;"	f	typeref:typename:void
+cell_set_fg_rgb	../include/notcurses.h	/^cell_set_fg_rgb(cell* cl, int r, int g, int b){$/;"	f	typeref:typename:int
+cell_set_wide	../src/lib/notcurses.c	/^cell_set_wide(cell* c){$/;"	f	typeref:typename:void	file:
+cell_simple_p	../include/notcurses.h	/^cell_simple_p(const cell* c){$/;"	f	typeref:typename:bool
+cell_styles	../include/notcurses.h	/^cell_styles(const cell* c){$/;"	f	typeref:typename:unsigned
+cell_styles_off	../include/notcurses.h	/^cell_styles_off(cell* c, unsigned stylebits){$/;"	f	typeref:typename:void
+cell_styles_on	../include/notcurses.h	/^cell_styles_on(cell* c, unsigned stylebits){$/;"	f	typeref:typename:void
+cell_styles_set	../include/notcurses.h	/^cell_styles_set(cell* c, unsigned stylebits){$/;"	f	typeref:typename:void
+cellcmp_and_dupfar	../src/lib/render.c	/^cellcmp_and_dupfar(egcpool* dampool, cell* damcell, const ncplane* srcplane,$/;"	f	typeref:typename:int	file:
+cellelisions	../include/notcurses.h	/^  uint64_t cellelisions;     \/\/ cells we elided entirely thanks to damage maps$/;"	m	struct:ncstats	typeref:typename:uint64_t
+cellemissions	../include/notcurses.h	/^  uint64_t cellemissions;    \/\/ cells we emitted due to inferred damage$/;"	m	struct:ncstats	typeref:typename:uint64_t
+cells_double_box	../include/notcurses.h	/^cells_double_box(struct ncplane* n, uint32_t attr, uint64_t channels,$/;"	f	typeref:typename:int
+cells_load_box	../include/notcurses.h	/^cells_load_box(struct ncplane* n, uint32_t attrs, uint64_t channels,$/;"	f	typeref:typename:int
+cells_rounded_box	../include/notcurses.h	/^cells_rounded_box(struct ncplane* n, uint32_t attr, uint64_t channels,$/;"	f	typeref:typename:int
+channel	../tests/channel.cpp	/^    uint32_t channel;$/;"	m	struct:TEST_F::t	typeref:typename:uint32_t	file:
+channel_default_p	../include/notcurses.h	/^channel_default_p(unsigned channel){$/;"	f	typeref:typename:bool
+channel_get_alpha	../include/notcurses.h	/^channel_get_alpha(unsigned channel){$/;"	f	typeref:typename:unsigned
+channel_get_b	../include/notcurses.h	/^channel_get_b(unsigned channel){$/;"	f	typeref:typename:unsigned
+channel_get_g	../include/notcurses.h	/^channel_get_g(unsigned channel){$/;"	f	typeref:typename:unsigned
+channel_get_r	../include/notcurses.h	/^channel_get_r(unsigned channel){$/;"	f	typeref:typename:unsigned
+channel_get_rgb	../include/notcurses.h	/^channel_get_rgb(unsigned channel, unsigned* RESTRICT r, unsigned* RESTRICT g,$/;"	f	typeref:typename:unsigned
+channel_set	../include/notcurses.h	/^channel_set(unsigned* channel, unsigned rgb){$/;"	f	typeref:typename:int
+channel_set_alpha	../include/notcurses.h	/^channel_set_alpha(unsigned* channel, int alpha){$/;"	f	typeref:typename:int
+channel_set_default	../include/notcurses.h	/^channel_set_default(unsigned* channel){$/;"	f	typeref:typename:unsigned
+channel_set_rgb	../include/notcurses.h	/^channel_set_rgb(unsigned* channel, int r, int g, int b){$/;"	f	typeref:typename:int
+channels	../include/notcurses.h	/^  uint64_t channels;          \/\/ + 8b == 16b$/;"	m	struct:cell	typeref:typename:uint64_t
+channels	../src/demo/witherworm.c	/^  uint64_t channels;$/;"	m	struct:snake	typeref:typename:uint64_t	file:
+channels	../src/lib/fade.c	/^  uint64_t* channels;           \/\/ all channels from the framebuffer$/;"	m	struct:planepalette	typeref:typename:uint64_t *	file:
+channels	../src/lib/internal.h	/^  uint64_t channels;    \/\/ works the same way as cells$/;"	m	struct:ncplane	typeref:typename:uint64_t
+channels_bg_default_p	../include/notcurses.h	/^channels_bg_default_p(uint64_t channels){$/;"	f	typeref:typename:bool
+channels_fg_default_p	../include/notcurses.h	/^channels_fg_default_p(uint64_t channels){$/;"	f	typeref:typename:bool
+channels_get_bchannel	../include/notcurses.h	/^channels_get_bchannel(uint64_t channels){$/;"	f	typeref:typename:unsigned
+channels_get_bg	../include/notcurses.h	/^channels_get_bg(uint64_t channels){$/;"	f	typeref:typename:unsigned
+channels_get_bg_alpha	../include/notcurses.h	/^channels_get_bg_alpha(uint64_t channels){$/;"	f	typeref:typename:unsigned
+channels_get_bg_rgb	../include/notcurses.h	/^channels_get_bg_rgb(uint64_t channels, unsigned* r, unsigned* g, unsigned* b){$/;"	f	typeref:typename:unsigned
+channels_get_fchannel	../include/notcurses.h	/^channels_get_fchannel(uint64_t channels){$/;"	f	typeref:typename:unsigned
+channels_get_fg	../include/notcurses.h	/^channels_get_fg(uint64_t channels){$/;"	f	typeref:typename:unsigned
+channels_get_fg_alpha	../include/notcurses.h	/^channels_get_fg_alpha(uint64_t channels){$/;"	f	typeref:typename:unsigned
+channels_get_fg_rgb	../include/notcurses.h	/^channels_get_fg_rgb(uint64_t channels, unsigned* r, unsigned* g, unsigned* b){$/;"	f	typeref:typename:unsigned
+channels_set_bchannel	../include/notcurses.h	/^channels_set_bchannel(uint64_t* channels, uint32_t channel){$/;"	f	typeref:typename:uint64_t
+channels_set_bg	../include/notcurses.h	/^channels_set_bg(uint64_t* channels, unsigned rgb){$/;"	f	typeref:typename:int
+channels_set_bg_alpha	../include/notcurses.h	/^channels_set_bg_alpha(uint64_t* channels, int alpha){$/;"	f	typeref:typename:int
+channels_set_bg_default	../include/notcurses.h	/^channels_set_bg_default(uint64_t* channels){$/;"	f	typeref:typename:uint64_t
+channels_set_bg_rgb	../include/notcurses.h	/^channels_set_bg_rgb(uint64_t* channels, int r, int g, int b){$/;"	f	typeref:typename:int
+channels_set_fchannel	../include/notcurses.h	/^channels_set_fchannel(uint64_t* channels, uint32_t channel){$/;"	f	typeref:typename:uint64_t
+channels_set_fg	../include/notcurses.h	/^channels_set_fg(uint64_t* channels, unsigned rgb){$/;"	f	typeref:typename:int
+channels_set_fg_alpha	../include/notcurses.h	/^channels_set_fg_alpha(uint64_t* channels, int alpha){$/;"	f	typeref:typename:int
+channels_set_fg_default	../include/notcurses.h	/^channels_set_fg_default(uint64_t* channels){$/;"	f	typeref:typename:uint64_t
+channels_set_fg_rgb	../include/notcurses.h	/^channels_set_fg_rgb(uint64_t* channels, int r, int g, int b){$/;"	f	typeref:typename:int
+chncv	../src/demo/outro.c	/^static struct ncvisual* chncv;$/;"	v	typeref:struct:ncvisual *	file:
+circular	../include/notcurses.h	/^  bool circular;$/;"	m	struct:panelreel_options	typeref:typename:bool
+civis	../src/lib/internal.h	/^  char* civis;    \/\/ hide cursor$/;"	m	struct:notcurses	typeref:typename:char *
+clear_screen_start	../include/notcurses.h	/^  bool clear_screen_start;$/;"	m	struct:notcurses_options	typeref:typename:bool
+clearbol	../src/lib/internal.h	/^  char* clearbol; \/\/ clear to beginning of line$/;"	m	struct:notcurses	typeref:typename:char *
+cleareol	../src/lib/internal.h	/^  char* cleareol; \/\/ clear to end of line$/;"	m	struct:notcurses	typeref:typename:char *
+clearscr	../src/lib/internal.h	/^  char* clearscr; \/\/ erase screen and home cursor$/;"	m	struct:notcurses	typeref:typename:char *
+cnorm	../src/lib/internal.h	/^  char* cnorm;    \/\/ restore cursor to default state$/;"	m	struct:notcurses	typeref:typename:char *
+codec	../src/lib/internal.h	/^  struct AVCodec* codec;$/;"	m	struct:ncvisual	typeref:struct:AVCodec *
+codecctx	../src/lib/internal.h	/^  struct AVCodecContext* codecctx;$/;"	m	struct:ncvisual	typeref:struct:AVCodecContext *
+colors	../src/lib/internal.h	/^  int colors;     \/\/ number of colors terminfo reported usable for this screen$/;"	m	struct:notcurses	typeref:typename:int
+cols	../src/lib/fade.c	/^  int cols;                     \/\/ number of columns when allocated$/;"	m	struct:planepalette	typeref:typename:int	file:
+cond	../src/demo/input.c	/^static pthread_cond_t cond = PTHREAD_COND_INITIALIZER;$/;"	v	typeref:typename:pthread_cond_t	file:
+convinit	../src/lib/enmetric.c	/^convinit(void){$/;"	f	typeref:typename:void	file:
+cparams	../src/lib/internal.h	/^  struct AVCodecParameters* cparams;$/;"	m	struct:ncvisual	typeref:struct:AVCodecParameters *
+create_esctrie_node	../src/lib/input.c	/^create_esctrie_node(int special){$/;"	f	typeref:typename:esctrie *	file:
+create_initial_ncplane	../src/lib/notcurses.c	/^create_initial_ncplane(notcurses* nc){$/;"	f	typeref:typename:ncplane *	file:
+cuf	../src/lib/internal.h	/^  char* cuf;      \/\/ move n cells right$/;"	m	struct:notcurses	typeref:typename:char *
+cuf1	../src/lib/internal.h	/^  char* cuf1;     \/\/ move 1 cell right$/;"	m	struct:notcurses	typeref:typename:char *
+cup	../src/lib/internal.h	/^  char* cup;      \/\/ move cursor$/;"	m	struct:notcurses	typeref:typename:char *
+curattr	../src/lib/render.c	/^  uint32_t curattr = 0; \/\/ current attributes set (does not include colors)$/;"	m	struct:renderstate	typeref:typename:uint32_t	file:
+curry	../src/lib/panelreel.c	/^  void* curry;                 \/\/ application data provided to cbfxn$/;"	m	struct:tablet	typeref:typename:void *	file:
+cursor_invalid_p	../src/lib/notcurses.c	/^cursor_invalid_p(const ncplane* n){$/;"	f	typeref:typename:bool	file:
+datadir	../src/demo/demo.c	/^static char datadir[PATH_MAX] = "\/usr\/share\/notcurses"; \/\/ FIXME$/;"	v	typeref:typename:char[]	file:
+decisep	../src/lib/enmetric.c	/^static const char* decisep;$/;"	v	typeref:typename:const char *	file:
+decisep_	../tests/enmetric.cpp	/^  const char* decisep_{};$/;"	m	class:EnmetricTest	typeref:typename:const char *	file:
+def	../tests/channel.cpp	/^    bool def;$/;"	m	struct:TEST_F::t	typeref:typename:bool	file:
+defaultelidable	../src/lib/render.c	/^  bool defaultelidable;$/;"	m	struct:renderstate	typeref:typename:bool	file:
+defaultelisions	../include/notcurses.h	/^  uint64_t defaultelisions;  \/\/ default color was emitted$/;"	m	struct:ncstats	typeref:typename:uint64_t
+defaultemissions	../include/notcurses.h	/^  uint64_t defaultemissions; \/\/ default color was elided$/;"	m	struct:ncstats	typeref:typename:uint64_t
+defcell	../src/lib/internal.h	/^  cell defcell;         \/\/ cell written anywhere that fb[i].gcluster == 0$/;"	m	struct:ncplane	typeref:typename:cell
+demo_getc	../src/demo/input.c	/^char32_t demo_getc(const struct timespec* ts, ncinput* ni){$/;"	f	typeref:typename:char32_t
+demo_getc_blocking	../src/demo/demo.h	/^demo_getc_blocking(ncinput* ni){$/;"	f	typeref:typename:char32_t
+demo_getc_nblock	../src/demo/demo.h	/^demo_getc_nblock(ncinput* ni){$/;"	f	typeref:typename:char32_t
+demodelay	../src/demo/demo.c	/^struct timespec demodelay = {$/;"	v	typeref:struct:timespec
+demoresult	../src/demo/demo.c	/^typedef struct demoresult {$/;"	s	file:
+demoresult	../src/demo/demo.c	/^} demoresult;$/;"	t	typeref:struct:demoresult	file:
+dig_visible_cell	../src/lib/render.c	/^dig_visible_cell(cell* c, int y, int x, ncplane* p, int falpha, int balpha){$/;"	f	typeref:typename:ncplane *	file:
+dim	../src/lib/internal.h	/^  char* dim;      \/\/ CELL_STYLE_DIM$/;"	m	struct:notcurses	typeref:typename:char *
+dim_rows	../src/input/input.cpp	/^dim_rows(struct ncplane* n){$/;"	f	typeref:typename:int	file:
+dimx	../src/input/input.cpp	/^static int dimy, dimx;$/;"	v	typeref:typename:int	file:
+dimy	../src/input/input.cpp	/^static int dimy, dimx;$/;"	v	typeref:typename:int	file:
+draw_block	../src/demo/unicodeblocks.c	/^draw_block(struct ncplane* nn, uint32_t blockstart){$/;"	f	typeref:typename:int	file:
+draw_borders	../src/lib/panelreel.c	/^draw_borders(ncplane* w, unsigned mask, uint64_t channel,$/;"	f	typeref:typename:int	file:
+draw_bounding_box	../src/demo/sliding.c	/^draw_bounding_box(struct ncplane* n, int yoff, int xoff, int chunky, int chunkx){$/;"	f	typeref:typename:int	file:
+draw_eagle	../src/demo/eagle.c	/^draw_eagle(struct ncplane* n, const char* sprite){$/;"	f	typeref:typename:int	file:
+draw_focused_tablet	../src/lib/panelreel.c	/^draw_focused_tablet(const panelreel* pr){$/;"	f	typeref:typename:int	file:
+draw_following_tablets	../src/lib/panelreel.c	/^draw_following_tablets(const panelreel* pr, const tablet* otherend){$/;"	f	typeref:typename:tablet *	file:
+draw_luigi	../src/demo/luigi.c	/^draw_luigi(struct ncplane* n, const char* sprite){$/;"	f	typeref:typename:int	file:
+draw_panelreel_borders	../src/lib/panelreel.c	/^draw_panelreel_borders(const panelreel* pr){$/;"	f	typeref:typename:int	file:
+draw_previous_tablets	../src/lib/panelreel.c	/^draw_previous_tablets(const panelreel* pr, const tablet* otherend){$/;"	f	typeref:typename:tablet *	file:
+drop_signals	../src/lib/notcurses.c	/^drop_signals(notcurses* nc){$/;"	f	typeref:typename:int	file:
+dstheight	../src/lib/internal.h	/^  int dstwidth, dstheight;$/;"	m	struct:ncvisual	typeref:typename:int
+dstwidth	../src/lib/internal.h	/^  int dstwidth, dstheight;$/;"	m	struct:ncvisual	typeref:typename:int
+eagle	../src/demo/eagle.c	/^  struct eagle {$/;"	s	function:eagles	file:
+eagle1	../src/demo/eagle.c	/^const char eagle1[] =$/;"	v	typeref:typename:const char[]
+eagle_demo	../src/demo/eagle.c	/^int eagle_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+eagles	../src/demo/eagle.c	/^eagles(struct notcurses* nc){$/;"	f	typeref:typename:int	file:
+efd	../src/lib/panelreel.c	/^  int efd;                 \/\/ eventfd, signaled in panelreel_touch() if >= 0$/;"	m	struct:panelreel	typeref:typename:int	file:
+egcpool	../src/lib/egcpool.h	/^typedef struct egcpool {$/;"	s
+egcpool	../src/lib/egcpool.h	/^} egcpool;$/;"	t	typeref:struct:egcpool
+egcpool_alloc_justified	../src/lib/egcpool.h	/^egcpool_alloc_justified(const egcpool* pool, int len){$/;"	f	typeref:typename:bool
+egcpool_check_validity	../src/lib/egcpool.h	/^egcpool_check_validity(const egcpool* pool, int offset){$/;"	f	typeref:typename:bool
+egcpool_dump	../src/lib/egcpool.h	/^egcpool_dump(egcpool* pool){$/;"	f	typeref:typename:void
+egcpool_extended_gcluster	../src/lib/egcpool.h	/^egcpool_extended_gcluster(const egcpool* pool, const cell* c){$/;"	f	typeref:typename:const char *
+egcpool_grow	../src/lib/egcpool.h	/^egcpool_grow(egcpool* pool, size_t len){$/;"	f	typeref:typename:int
+egcpool_init	../src/lib/egcpool.h	/^egcpool_init(egcpool* p){$/;"	f	typeref:typename:void
+egcpool_release	../src/lib/egcpool.h	/^egcpool_release(egcpool* pool, int offset){$/;"	f	typeref:typename:void
+egcpool_stash	../src/lib/egcpool.h	/^egcpool_stash(egcpool* pool, const char* egc, size_t ulen){$/;"	f	typeref:typename:int
+enhalfen	../src/poc/sprite-enhalfen.c	/^enhalfen(const char* s, int width){$/;"	f	typeref:typename:int	file:
+enmetric	../src/lib/enmetric.c	/^const char *enmetric(uintmax_t val, unsigned decimal, char *buf, int omitdec,$/;"	f	typeref:typename:const char *
+enqueue	../src/demo/input.c	/^static nciqueue** enqueue = &queue;$/;"	v	typeref:typename:nciqueue **	file:
+esctrie	../src/lib/input.c	/^typedef struct esctrie {$/;"	s	file:
+esctrie	../src/lib/input.c	/^} esctrie;$/;"	t	typeref:struct:esctrie	file:
+ext_demos	../src/demo/demo.c	/^ext_demos(struct notcurses* nc, const char* demos){$/;"	f	typeref:typename:demoresult *	file:
+extended_gcluster	../src/lib/internal.h	/^extended_gcluster(const ncplane* n, const cell* c){$/;"	f	typeref:typename:const char *
+fade_block	../src/demo/unicodeblocks.c	/^fade_block(struct ncplane* nn, const struct timespec* subdelay){$/;"	f	typeref:typename:int	file:
+fadethread	../src/demo/outro.c	/^fadethread(void* vnc){$/;"	f	typeref:typename:void *	file:
+failed	../src/demo/demo.c	/^  bool failed;$/;"	m	struct:demoresult	typeref:typename:bool	file:
+failed_renders	../include/notcurses.h	/^  uint64_t failed_renders;   \/\/ number of aborted renders, should be 0$/;"	m	struct:ncstats	typeref:typename:uint64_t
+fatal_handler	../src/lib/notcurses.c	/^fatal_handler(int signo){$/;"	f	typeref:typename:void	file:
+fb	../src/lib/internal.h	/^  cell* fb;             \/\/ "framebuffer" of character cells$/;"	m	struct:ncplane	typeref:typename:cell *
+fbbytes	../include/notcurses.h	/^  uint64_t fbbytes;          \/\/ total bytes devoted to all active framebuffers$/;"	m	struct:ncstats	typeref:typename:uint64_t
+fbcellidx	../src/lib/internal.h	/^fbcellidx(const ncplane* n, int row, int col){$/;"	f	typeref:typename:int
+fgelidable	../src/lib/render.c	/^  bool fgelidable;$/;"	m	struct:renderstate	typeref:typename:bool	file:
+fgelisions	../include/notcurses.h	/^  uint64_t fgelisions;       \/\/ RGB fg elision count$/;"	m	struct:ncstats	typeref:typename:uint64_t
+fgemissions	../include/notcurses.h	/^  uint64_t fgemissions;      \/\/ RGB fg emissions$/;"	m	struct:ncstats	typeref:typename:uint64_t
+fill_chunk	../src/demo/sliding.c	/^fill_chunk(struct ncplane* n, int idx){$/;"	f	typeref:typename:int	file:
+find_above_ncplane	../src/lib/notcurses.c	/^find_above_ncplane(ncplane* n){$/;"	f	typeref:typename:ncplane **	file:
+find_data	../src/demo/demo.c	/^char* find_data(const char* datum){$/;"	f	typeref:typename:char *
+find_topmost	../src/lib/panelreel.c	/^find_topmost(panelreel* pr){$/;"	f	typeref:typename:tablet *	file:
+fmtctx	../src/lib/internal.h	/^  struct AVFormatContext* fmtctx;$/;"	m	struct:ncvisual	typeref:struct:AVFormatContext *
+focusedchan	../include/notcurses.h	/^  uint64_t focusedchan;\/\/ focused tablet border styling channel$/;"	m	struct:panelreel_options	typeref:typename:uint64_t
+frame	../src/lib/internal.h	/^  struct AVFrame* frame;$/;"	m	struct:ncvisual	typeref:struct:AVFrame *
+free_plane	../src/lib/notcurses.c	/^free_plane(ncplane* p){$/;"	f	typeref:typename:void	file:
+g	../tests/channel.cpp	/^    int r, g, b;$/;"	m	struct:TEST_F::t	typeref:typename:int	file:
+gcluster	../include/notcurses.h	/^  uint32_t gcluster;          \/\/ 1 * 4b -> 4b$/;"	m	struct:cell	typeref:typename:uint32_t
+getLines	../src/planereel/main.cpp	/^    int getLines() const {$/;"	f	class:TabletCtx	typeref:typename:int	file:
+get_surrounding_cells	../src/demo/witherworm.c	/^get_surrounding_cells(struct ncplane* n, cell* cells, int y, int x){$/;"	f	typeref:typename:void	file:
+getm	../src/lib/internal.h	/^  char* getm;     \/\/ get mouse events$/;"	m	struct:notcurses	typeref:typename:char *
+grid_demo	../src/demo/grid.c	/^int grid_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+gridinv_demo	../src/demo/grid.c	/^gridinv_demo(struct notcurses* nc, struct ncplane *n){$/;"	f	typeref:typename:int	file:
+gridswitch_demo	../src/demo/grid.c	/^gridswitch_demo(struct notcurses* nc, struct ncplane *n){$/;"	f	typeref:typename:int	file:
+grow_rgb	../src/demo/maxcolor.c	/^grow_rgb(uint32_t* rgb){$/;"	f	typeref:typename:void	file:
+handle_csi	../src/lib/input.c	/^handle_csi(notcurses* nc, ncinput* ni){$/;"	f	typeref:typename:char32_t	file:
+handle_getc	../src/lib/input.c	/^handle_getc(notcurses* nc, int kpress, ncinput* ni){$/;"	f	typeref:typename:char32_t	file:
+handle_input	../src/demo/panelreel.c	/^handle_input(struct notcurses* nc, struct panelreel* pr, int efd,$/;"	f	typeref:typename:wchar_t	file:
+handle_input	../src/lib/input.c	/^handle_input(notcurses* nc, ncinput* ni){$/;"	f	typeref:typename:char32_t	file:
+handle_ncinput	../src/lib/input.c	/^handle_ncinput(notcurses* nc, ncinput* ni){$/;"	f	typeref:typename:char32_t	file:
+handle_opts	../src/demo/demo.c	/^handle_opts(int argc, char** argv, notcurses_options* opts){$/;"	f	typeref:typename:const char *	file:
+id	../include/notcurses.h	/^  char32_t id;     \/\/ identifier. Unicode codepoint or synthesized NCKEY event$/;"	m	struct:ncinput	typeref:typename:char32_t
+id	../src/demo/panelreel.c	/^  unsigned id;$/;"	m	struct:tabletctx	typeref:typename:unsigned	file:
+impericize_enmetric	../tests/enmetric.cpp	/^char* EnmetricTest::impericize_enmetric(uintmax_t val, unsigned decimal,$/;"	f	class:EnmetricTest	typeref:typename:char *
+infinitescroll	../include/notcurses.h	/^  bool infinitescroll;$/;"	m	struct:panelreel_options	typeref:typename:bool
+inhibit_alternate_screen	../include/notcurses.h	/^  bool inhibit_alternate_screen;$/;"	m	struct:notcurses_options	typeref:typename:bool
+init_snake	../src/demo/witherworm.c	/^init_snake(snake* s, int dimy, int dimx){$/;"	f	typeref:typename:void	file:
+input_dispatcher	../src/demo/input.c	/^int input_dispatcher(struct notcurses* nc){$/;"	f	typeref:typename:int
+input_free_esctrie	../src/lib/input.c	/^void input_free_esctrie(esctrie** eptr){$/;"	f	typeref:typename:void
+input_queue_full	../src/lib/input.c	/^input_queue_full(const notcurses* nc){$/;"	f	typeref:typename:bool	file:
+inputbuf	../src/lib/internal.h	/^  unsigned char inputbuf[BUFSIZ];$/;"	m	struct:notcurses	typeref:typename:unsigned char[]
+inputbuf_occupied	../src/lib/internal.h	/^  unsigned inputbuf_occupied;$/;"	m	struct:notcurses	typeref:typename:unsigned
+inputbuf_valid_starts	../src/lib/internal.h	/^  unsigned inputbuf_valid_starts;$/;"	m	struct:notcurses	typeref:typename:unsigned
+inputbuf_write_at	../src/lib/internal.h	/^  unsigned inputbuf_write_at;$/;"	m	struct:notcurses	typeref:typename:unsigned
+inputescapes	../src/lib/internal.h	/^  struct esctrie* inputescapes; \/\/ trie of input escapes -> ncspecial_keys$/;"	m	struct:notcurses	typeref:struct:esctrie *
+insert_new_panel	../src/lib/panelreel.c	/^insert_new_panel(struct notcurses* nc, panelreel* pr, tablet* t){$/;"	f	typeref:typename:tablet *	file:
+interrogate_terminfo	../src/lib/notcurses.c	/^interrogate_terminfo(notcurses* nc, const notcurses_options* opts){$/;"	f	typeref:typename:int	file:
+interrupt_demo	../src/demo/demo.c	/^void interrupt_demo(void){$/;"	f	typeref:typename:void
+intro	../src/demo/demo.c	/^intro(struct notcurses* nc){$/;"	f	typeref:typename:int	file:
+italics	../src/lib/internal.h	/^  char* italics;  \/\/ CELL_STYLE_ITALIC$/;"	m	struct:notcurses	typeref:typename:char *
+italoff	../src/lib/internal.h	/^  char* italoff;  \/\/ CELL_STYLE_ITALIC (disable)$/;"	m	struct:notcurses	typeref:typename:char *
+key	../src/lib/input.c	/^    char32_t key;$/;"	m	struct:prep_special_keys::__anonb03b5a4e0208	typeref:typename:char32_t	file:
+kill_active_tablet	../src/demo/panelreel.c	/^kill_active_tablet(struct panelreel* pr, tabletctx** tctx){$/;"	f	typeref:typename:int	file:
+kill_tablet	../src/demo/panelreel.c	/^kill_tablet(tabletctx** tctx){$/;"	f	typeref:typename:void	file:
+killme	../src/demo/xray.c	/^static struct ncplane* killme; \/\/ FIXME$/;"	v	typeref:struct:ncplane *	file:
+last_traveled_direction	../src/lib/panelreel.c	/^  int last_traveled_direction;$/;"	m	struct:panelreel	typeref:typename:int	file:
+lastb	../src/lib/render.c	/^  unsigned lastb;$/;"	m	struct:renderstate	typeref:typename:unsigned	file:
+lastbb	../src/lib/render.c	/^  unsigned lastbb;$/;"	m	struct:renderstate	typeref:typename:unsigned	file:
+lastbg	../src/lib/render.c	/^  unsigned lastbg;$/;"	m	struct:renderstate	typeref:typename:unsigned	file:
+lastbr	../src/lib/render.c	/^  unsigned lastbr; \/\/ background rgb$/;"	m	struct:renderstate	typeref:typename:unsigned	file:
+lastframe	../src/lib/internal.h	/^  cell* lastframe;\/\/ last rendered framebuffer, NULL until first render$/;"	m	struct:notcurses	typeref:typename:cell *
+lastg	../src/lib/render.c	/^  unsigned lastg;$/;"	m	struct:renderstate	typeref:typename:unsigned	file:
+lastr	../src/lib/render.c	/^  unsigned lastr;  \/\/ foreground rgb$/;"	m	struct:renderstate	typeref:typename:unsigned	file:
+leg	../src/demo/xray.c	/^static const char* leg[] = {$/;"	v	typeref:typename:const char * []	file:
+legend	../src/demo/view.c	/^legend(struct notcurses* nc, int dimy, int dimx){$/;"	f	typeref:struct:ncplane *	file:
+lenx	../src/lib/internal.h	/^  int lenx, leny;       \/\/ size of the plane, [0..len{x,y}) is addressable$/;"	m	struct:ncplane	typeref:typename:int
+leny	../src/lib/internal.h	/^  int lenx, leny;       \/\/ size of the plane, [0..len{x,y}) is addressable$/;"	m	struct:ncplane	typeref:typename:int
+lfdimx	../src/lib/internal.h	/^  int lfdimx;     \/\/ dimensions of lastframe, unchanged by screen resize$/;"	m	struct:notcurses	typeref:typename:int
+lfdimy	../src/lib/internal.h	/^  int lfdimy;     \/\/ lfdimx\/lfdimy are 0 until first render$/;"	m	struct:notcurses	typeref:typename:int
+lighten	../src/demo/witherworm.c	/^lighten(struct ncplane* n, cell* c, int distance){$/;"	f	typeref:typename:int	file:
+lightup	../src/demo/witherworm.c	/^  cell lightup[13];$/;"	m	struct:snake	typeref:typename:cell[13]	file:
+lightup_surrounding_cells	../src/demo/witherworm.c	/^lightup_surrounding_cells(struct ncplane* n, const cell* cells, int y, int x){$/;"	f	typeref:typename:int	file:
+lines	../src/demo/panelreel.c	/^  int lines;$/;"	m	struct:tabletctx	typeref:typename:int	file:
+lines	../src/planereel/main.cpp	/^    int lines;$/;"	m	class:TabletCtx	typeref:typename:int	file:
+lock	../src/demo/input.c	/^static pthread_mutex_t lock = PTHREAD_MUTEX_INITIALIZER;$/;"	v	typeref:typename:pthread_mutex_t	file:
+lock	../src/demo/panelreel.c	/^  pthread_mutex_t lock;$/;"	m	struct:tabletctx	typeref:typename:pthread_mutex_t	file:
+lock	../src/lib/internal.h	/^  pthread_mutex_t lock;$/;"	m	struct:notcurses	typeref:typename:pthread_mutex_t
+loff	../include/notcurses.h	/^  int toff, roff, boff, loff;$/;"	m	struct:panelreel_options	typeref:typename:int
+luigi_demo	../src/demo/luigi.c	/^int luigi_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+luigis	../src/demo/luigi.c	/^static const char* luigis[] = {$/;"	v	typeref:typename:const char * []	file:
+luigis	../src/poc/sprite-enhalfen.c	/^static const char* luigis[] = {$/;"	v	typeref:typename:const char * []	file:
+main	../src/demo/demo.c	/^int main(int argc, char** argv){$/;"	f	typeref:typename:int
+main	../src/input/input.cpp	/^int main(void){$/;"	f	typeref:typename:int
+main	../src/planereel/main.cpp	/^int main(void){$/;"	f	typeref:typename:int
+main	../src/poc/rgb.c	/^int main(void){$/;"	f	typeref:typename:int
+main	../src/poc/rgbbg.c	/^int main(void){$/;"	f	typeref:typename:int
+main	../src/poc/sgr.c	/^int main(int argc, char** argv){$/;"	f	typeref:typename:int
+main	../src/poc/sprite-enhalfen.c	/^int main(void){$/;"	f	typeref:typename:int
+main	../src/poc/unidamage.cpp	/^int main(int argc, char** argv){$/;"	f	typeref:typename:int
+main	../src/view/view.cpp	/^int main(int argc, char** argv){$/;"	f	typeref:typename:int
+main	../tests/main.cpp	/^int main(int argc, char **argv){$/;"	f	typeref:typename:int
+make_nonblocking	../src/lib/notcurses.c	/^make_nonblocking(FILE* fp){$/;"	f	typeref:typename:int	file:
+max_supported_cols	../include/notcurses.h	/^  int max_supported_cols;$/;"	m	struct:panelreel_options	typeref:typename:int
+max_supported_rows	../include/notcurses.h	/^  int max_supported_rows;$/;"	m	struct:panelreel_options	typeref:typename:int
+maxb	../src/lib/fade.c	/^  unsigned maxr, maxg, maxb;    \/\/ maxima across foreground channels$/;"	m	struct:planepalette	typeref:typename:unsigned	file:
+maxbb	../src/lib/fade.c	/^  unsigned maxbr, maxbg, maxbb; \/\/ maxima across background channels$/;"	m	struct:planepalette	typeref:typename:unsigned	file:
+maxbg	../src/lib/fade.c	/^  unsigned maxbr, maxbg, maxbb; \/\/ maxima across background channels$/;"	m	struct:planepalette	typeref:typename:unsigned	file:
+maxbr	../src/lib/fade.c	/^  unsigned maxbr, maxbg, maxbb; \/\/ maxima across background channels$/;"	m	struct:planepalette	typeref:typename:unsigned	file:
+maxcolor_demo	../src/demo/maxcolor.c	/^int maxcolor_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+maxg	../src/lib/fade.c	/^  unsigned maxr, maxg, maxb;    \/\/ maxima across foreground channels$/;"	m	struct:planepalette	typeref:typename:unsigned	file:
+maxr	../src/lib/fade.c	/^  unsigned maxr, maxg, maxb;    \/\/ maxima across foreground channels$/;"	m	struct:planepalette	typeref:typename:unsigned	file:
+message	../src/demo/witherworm.c	/^message(struct ncplane* n, int maxy, int maxx, int num, int total,$/;"	f	typeref:typename:int	file:
+min_supported_cols	../include/notcurses.h	/^  int min_supported_cols;$/;"	m	struct:panelreel_options	typeref:typename:int
+min_supported_rows	../include/notcurses.h	/^  int min_supported_rows;$/;"	m	struct:panelreel_options	typeref:typename:int
+move_square	../src/demo/sliding.c	/^move_square(struct notcurses* nc, struct ncplane* chunk, int* holey, int* holex,$/;"	f	typeref:typename:int	file:
+move_tablet	../src/lib/panelreel.c	/^move_tablet(ncplane* p, int deltax, int deltay){$/;"	f	typeref:typename:int	file:
+mstream	../src/lib/internal.h	/^  char* mstream;  \/\/ buffer for rendering memstream, see open_memstream(3)$/;"	m	struct:notcurses	typeref:typename:char *
+mstreamfp	../src/lib/internal.h	/^  FILE* mstreamfp;\/\/ FILE* for rendering memstream$/;"	m	struct:notcurses	typeref:typename:FILE *
+mstrsize	../src/lib/internal.h	/^  size_t mstrsize;\/\/ size of rendering memstream$/;"	m	struct:notcurses	typeref:typename:size_t
+mutex_unlock	../src/lib/render.c	/^mutex_unlock(void* vlock){$/;"	f	typeref:typename:void	file:
+n	../src/demo/eagle.c	/^    struct ncplane* n;$/;"	m	struct:eagles::eagle	typeref:struct:ncplane *	file:
+n_	../tests/cell.cpp	/^  struct ncplane* n_{};$/;"	s	class:CellTest	file:
+n_	../tests/fade.cpp	/^  struct ncplane* n_{};$/;"	s	class:FadeTest	file:
+n_	../tests/ncplane.cpp	/^  struct ncplane* n_{};$/;"	s	class:NcplaneTest	file:
+n_	../tests/panelreel.cpp	/^  struct ncplane* n_{};$/;"	s	class:PanelReelTest	file:
+n_	../tests/zaxis.cpp	/^  struct ncplane* n_{};$/;"	s	class:ZAxisTest	file:
+name	../src/demo/unicodeblocks.c	/^    const char* name;$/;"	m	struct:unicodeblocks_demo::__anonf0080f910108	typeref:typename:const char *	file:
+nc	../src/input/input.cpp	/^static struct notcurses* nc;$/;"	v	typeref:struct:notcurses *	file:
+nc	../src/lib/internal.h	/^  struct notcurses* nc; \/\/ notcurses object of which we are a part$/;"	m	struct:ncplane	typeref:struct:notcurses *
+nc_	../tests/cell.cpp	/^  struct notcurses* nc_{};$/;"	s	class:CellTest	file:
+nc_	../tests/fade.cpp	/^  struct notcurses* nc_{};$/;"	s	class:FadeTest	file:
+nc_	../tests/input.cpp	/^  struct notcurses* nc_{};$/;"	s	class:InputTest	file:
+nc_	../tests/libav.cpp	/^  notcurses* nc_{};$/;"	m	class:LibavTest	typeref:typename:notcurses *	file:
+nc_	../tests/ncplane.cpp	/^  struct notcurses* nc_{};$/;"	s	class:NcplaneTest	file:
+nc_	../tests/notcurses.cpp	/^  struct notcurses* nc_{};$/;"	s	class:NotcursesTest	file:
+nc_	../tests/panelreel.cpp	/^  struct notcurses* nc_{};$/;"	s	class:PanelReelTest	file:
+nc_	../tests/zaxis.cpp	/^  struct notcurses* nc_{};$/;"	s	class:ZAxisTest	file:
+ncalign_e	../include/notcurses.h	/^} ncalign_e;$/;"	t	typeref:enum:__anon4422f1ff0103
+ncinput	../include/notcurses.h	/^typedef struct ncinput {$/;"	s
+ncinput	../include/notcurses.h	/^} ncinput;$/;"	t	typeref:struct:ncinput
+nciqueue	../src/demo/input.c	/^typedef struct nciqueue {$/;"	s	file:
+nciqueue	../src/demo/input.c	/^} nciqueue;$/;"	t	typeref:struct:nciqueue	file:
+nckey_mouse_p	../include/notcurses.h	/^nckey_mouse_p(char32_t r){$/;"	f	typeref:typename:bool
+nckeystr	../src/input/input.cpp	/^const char* nckeystr(char32_t spkey){$/;"	f	typeref:typename:const char *
+ncobj	../src/lib/internal.h	/^  struct notcurses* ncobj; \/\/ set iff this ncvisual "owns" its ncplane$/;"	m	struct:ncvisual	typeref:struct:notcurses *
+ncp	../src/lib/internal.h	/^  ncplane* ncp;$/;"	m	struct:ncvisual	typeref:typename:ncplane *
+ncp_	../tests/libav.cpp	/^  ncplane* ncp_{};$/;"	m	class:LibavTest	typeref:typename:ncplane *	file:
+ncplane	../src/lib/internal.h	/^typedef struct ncplane {$/;"	s
+ncplane	../src/lib/internal.h	/^} ncplane;$/;"	t	typeref:struct:ncplane
+ncplane_at_cursor	../src/lib/notcurses.c	/^int ncplane_at_cursor(ncplane* n, cell* c){$/;"	f	typeref:typename:int
+ncplane_at_yx	../src/lib/notcurses.c	/^int ncplane_at_yx(ncplane* n, int y, int x, cell* c){$/;"	f	typeref:typename:int
+ncplane_below	../src/lib/notcurses.c	/^ncplane* ncplane_below(ncplane* n){$/;"	f	typeref:typename:ncplane *
+ncplane_box	../src/lib/notcurses.c	/^int ncplane_box(ncplane* n, const cell* ul, const cell* ur,$/;"	f	typeref:typename:int
+ncplane_box_sized	../include/notcurses.h	/^ncplane_box_sized(struct ncplane* n, const cell* ul, const cell* ur,$/;"	f	typeref:typename:int
+ncplane_cell_ref_yx	../src/lib/notcurses.c	/^cell* ncplane_cell_ref_yx(ncplane* n, int y, int x){$/;"	f	typeref:typename:cell *
+ncplane_create	../src/lib/notcurses.c	/^ncplane_create(notcurses* nc, int rows, int cols, int yoff, int xoff){$/;"	f	typeref:typename:ncplane *	file:
+ncplane_cursor_at	../src/lib/notcurses.c	/^int ncplane_cursor_at(const ncplane* n, cell* c, char** gclust){$/;"	f	typeref:typename:int
+ncplane_cursor_move_yx	../src/lib/notcurses.c	/^int ncplane_cursor_move_yx(ncplane* n, int y, int x){$/;"	f	typeref:typename:int
+ncplane_cursor_stuck	../src/lib/notcurses.c	/^ncplane_cursor_stuck(const ncplane* n){$/;"	f	typeref:typename:bool	file:
+ncplane_cursor_yx	../src/lib/notcurses.c	/^void ncplane_cursor_yx(const ncplane* n, int* y, int* x){$/;"	f	typeref:typename:void
+ncplane_default	../src/lib/notcurses.c	/^int ncplane_default(ncplane* ncp, cell* c){$/;"	f	typeref:typename:int
+ncplane_destroy	../src/lib/notcurses.c	/^int ncplane_destroy(ncplane* ncp){$/;"	f	typeref:typename:int
+ncplane_dim_yx	../src/lib/notcurses.c	/^void ncplane_dim_yx(const ncplane* n, int* rows, int* cols){$/;"	f	typeref:typename:void
+ncplane_double_box	../include/notcurses.h	/^ncplane_double_box(struct ncplane* n, uint32_t attr, uint64_t channels,$/;"	f	typeref:typename:int
+ncplane_double_box_sized	../include/notcurses.h	/^ncplane_double_box_sized(struct ncplane* n, uint32_t attr, uint64_t channels,$/;"	f	typeref:typename:int
+ncplane_erase	../src/lib/notcurses.c	/^void ncplane_erase(ncplane* n){$/;"	f	typeref:typename:void
+ncplane_fadein	../src/lib/fade.c	/^int ncplane_fadein(ncplane* n, const struct timespec* ts){$/;"	f	typeref:typename:int
+ncplane_fadeout	../src/lib/fade.c	/^int ncplane_fadeout(ncplane* n, const struct timespec* ts){$/;"	f	typeref:typename:int
+ncplane_get_attr	../src/lib/notcurses.c	/^uint32_t ncplane_get_attr(const ncplane* n){$/;"	f	typeref:typename:uint32_t
+ncplane_get_bchannel	../include/notcurses.h	/^ncplane_get_bchannel(const struct ncplane* nc){$/;"	f	typeref:typename:unsigned
+ncplane_get_bg	../include/notcurses.h	/^ncplane_get_bg(const struct ncplane* nc){$/;"	f	typeref:typename:unsigned
+ncplane_get_bg_alpha	../include/notcurses.h	/^ncplane_get_bg_alpha(const struct ncplane* nc){$/;"	f	typeref:typename:unsigned
+ncplane_get_bg_rgb	../include/notcurses.h	/^ncplane_get_bg_rgb(const struct ncplane* n, unsigned* r, unsigned* g, unsigned* b){$/;"	f	typeref:typename:unsigned
+ncplane_get_channels	../src/lib/notcurses.c	/^uint64_t ncplane_get_channels(const ncplane* n){$/;"	f	typeref:typename:uint64_t
+ncplane_get_fchannel	../include/notcurses.h	/^ncplane_get_fchannel(const struct ncplane* nc){$/;"	f	typeref:typename:unsigned
+ncplane_get_fg	../include/notcurses.h	/^ncplane_get_fg(const struct ncplane* nc){$/;"	f	typeref:typename:unsigned
+ncplane_get_fg_alpha	../include/notcurses.h	/^ncplane_get_fg_alpha(const struct ncplane* nc){$/;"	f	typeref:typename:unsigned
+ncplane_get_fg_rgb	../include/notcurses.h	/^ncplane_get_fg_rgb(const struct ncplane* n, unsigned* r, unsigned* g, unsigned* b){$/;"	f	typeref:typename:unsigned
+ncplane_hline	../include/notcurses.h	/^ncplane_hline(struct ncplane* n, const cell* c, int len){$/;"	f	typeref:typename:int
+ncplane_hline_interp	../src/lib/notcurses.c	/^int ncplane_hline_interp(ncplane* n, const cell* c, int len,$/;"	f	typeref:typename:int
+ncplane_lock	../src/lib/internal.h	/^ncplane_lock(const ncplane* n){$/;"	f	typeref:typename:void
+ncplane_move_above	../include/notcurses.h	/^ncplane_move_above(struct ncplane* n, struct ncplane* above){$/;"	f	typeref:typename:int
+ncplane_move_above_unsafe	../src/lib/notcurses.c	/^int ncplane_move_above_unsafe(ncplane* restrict n, ncplane* restrict above){$/;"	f	typeref:typename:int
+ncplane_move_below	../include/notcurses.h	/^ncplane_move_below(struct ncplane* n, struct ncplane* below){$/;"	f	typeref:typename:int
+ncplane_move_below_unsafe	../src/lib/notcurses.c	/^int ncplane_move_below_unsafe(ncplane* restrict n, ncplane* restrict below){$/;"	f	typeref:typename:int
+ncplane_move_bottom	../src/lib/notcurses.c	/^int ncplane_move_bottom(ncplane* n){$/;"	f	typeref:typename:int
+ncplane_move_top	../src/lib/notcurses.c	/^int ncplane_move_top(ncplane* n){$/;"	f	typeref:typename:int
+ncplane_move_yx	../src/lib/notcurses.c	/^int ncplane_move_yx(ncplane* n, int y, int x){$/;"	f	typeref:typename:int
+ncplane_printf	../include/notcurses.h	/^ncplane_printf(struct ncplane* n, const char* format, ...){$/;"	f	typeref:typename:int
+ncplane_printf_aligned	../include/notcurses.h	/^ncplane_printf_aligned(struct ncplane* n, int y, ncalign_e align, const char* format, ...){$/;"	f	typeref:typename:int
+ncplane_printf_yx	../include/notcurses.h	/^ncplane_printf_yx(struct ncplane* n, int y, int x, const char* format, ...){$/;"	f	typeref:typename:int
+ncplane_putc	../src/lib/notcurses.c	/^int ncplane_putc(ncplane* n, const cell* c){$/;"	f	typeref:typename:int
+ncplane_putc_yx	../include/notcurses.h	/^ncplane_putc_yx(struct ncplane* n, int y, int x, const cell* c){$/;"	f	typeref:typename:int
+ncplane_putegc	../src/lib/notcurses.c	/^int ncplane_putegc(struct ncplane* n, const char* gclust, uint32_t attr,$/;"	f	typeref:typename:int
+ncplane_putegc_yx	../include/notcurses.h	/^ncplane_putegc_yx(struct ncplane* n, int y, int x, const char* gclust, uint32_t attr,$/;"	f	typeref:typename:int
+ncplane_putsimple	../src/lib/notcurses.c	/^int ncplane_putsimple(struct ncplane* n, char c){$/;"	f	typeref:typename:int
+ncplane_putsimple_yx	../include/notcurses.h	/^ncplane_putsimple_yx(struct ncplane* n, int y, int x, char c){$/;"	f	typeref:typename:int
+ncplane_putstr	../include/notcurses.h	/^ncplane_putstr(struct ncplane* n, const char* gclustarr){$/;"	f	typeref:typename:int
+ncplane_putstr_aligned	../src/lib/notcurses.c	/^int ncplane_putstr_aligned(ncplane* n, int y, ncalign_e align, const char* s){$/;"	f	typeref:typename:int
+ncplane_putstr_yx	../src/lib/notcurses.c	/^int ncplane_putstr_yx(ncplane* n, int y, int x, const char* gclusters){$/;"	f	typeref:typename:int
+ncplane_putwc_yx	../include/notcurses.h	/^ncplane_putwc_yx(struct ncplane* n, int y, int x, wchar_t w){$/;"	f	typeref:typename:int
+ncplane_putwegc	../include/notcurses.h	/^ncplane_putwegc(struct ncplane* n, const wchar_t* gclust, uint32_t attr,$/;"	f	typeref:typename:int
+ncplane_putwegc_yx	../include/notcurses.h	/^ncplane_putwegc_yx(struct ncplane* n, int y, int x, const wchar_t* gclust,$/;"	f	typeref:typename:int
+ncplane_putwstr	../include/notcurses.h	/^ncplane_putwstr(struct ncplane* n, const wchar_t* gclustarr){$/;"	f	typeref:typename:int
+ncplane_putwstr_aligned	../src/lib/notcurses.c	/^int ncplane_putwstr_aligned(struct ncplane* n, int y, ncalign_e align,$/;"	f	typeref:typename:int
+ncplane_putwstr_yx	../include/notcurses.h	/^ncplane_putwstr_yx(struct ncplane* n, int y, int x, const wchar_t* gclustarr){$/;"	f	typeref:typename:int
+ncplane_resize	../src/lib/notcurses.c	/^int ncplane_resize(ncplane* n, int keepy, int keepx, int keepleny,$/;"	f	typeref:typename:int
+ncplane_resize_internal	../src/lib/notcurses.c	/^ncplane_resize_internal(ncplane* n, int keepy, int keepx, int keepleny,$/;"	f	typeref:typename:int	file:
+ncplane_rounded_box	../include/notcurses.h	/^ncplane_rounded_box(struct ncplane* n, uint32_t attr, uint64_t channels,$/;"	f	typeref:typename:int
+ncplane_rounded_box_sized	../include/notcurses.h	/^ncplane_rounded_box_sized(struct ncplane* n, uint32_t attr, uint64_t channels,$/;"	f	typeref:typename:int
+ncplane_set_bg	../src/lib/notcurses.c	/^int ncplane_set_bg(ncplane* n, unsigned channel){$/;"	f	typeref:typename:int
+ncplane_set_bg_alpha	../src/lib/notcurses.c	/^int ncplane_set_bg_alpha(ncplane *n, int alpha){$/;"	f	typeref:typename:int
+ncplane_set_bg_default	../src/lib/notcurses.c	/^void ncplane_set_bg_default(struct ncplane* n){$/;"	f	typeref:typename:void
+ncplane_set_bg_rgb	../src/lib/notcurses.c	/^int ncplane_set_bg_rgb(ncplane* n, int r, int g, int b){$/;"	f	typeref:typename:int
+ncplane_set_default	../src/lib/notcurses.c	/^int ncplane_set_default(ncplane* ncp, const cell* c){$/;"	f	typeref:typename:int
+ncplane_set_fg	../src/lib/notcurses.c	/^int ncplane_set_fg(ncplane* n, unsigned channel){$/;"	f	typeref:typename:int
+ncplane_set_fg_alpha	../src/lib/notcurses.c	/^int ncplane_set_fg_alpha(ncplane* n, int alpha){$/;"	f	typeref:typename:int
+ncplane_set_fg_default	../src/lib/notcurses.c	/^void ncplane_set_fg_default(struct ncplane* n){$/;"	f	typeref:typename:void
+ncplane_set_fg_rgb	../src/lib/notcurses.c	/^int ncplane_set_fg_rgb(ncplane* n, int r, int g, int b){$/;"	f	typeref:typename:int
+ncplane_set_userptr	../src/lib/notcurses.c	/^void* ncplane_set_userptr(ncplane* n, void* opaque){$/;"	f	typeref:typename:void *
+ncplane_styles	../src/lib/notcurses.c	/^unsigned ncplane_styles(const ncplane* n){$/;"	f	typeref:typename:unsigned
+ncplane_styles_off	../src/lib/notcurses.c	/^void ncplane_styles_off(ncplane* n, unsigned stylebits){$/;"	f	typeref:typename:void
+ncplane_styles_on	../src/lib/notcurses.c	/^void ncplane_styles_on(ncplane* n, unsigned stylebits){$/;"	f	typeref:typename:void
+ncplane_styles_set	../src/lib/notcurses.c	/^void ncplane_styles_set(ncplane* n, unsigned stylebits){$/;"	f	typeref:typename:void
+ncplane_unlock	../src/lib/internal.h	/^ncplane_unlock(const ncplane* n){$/;"	f	typeref:typename:void
+ncplane_userptr	../src/lib/notcurses.c	/^void* ncplane_userptr(ncplane* n){$/;"	f	typeref:typename:void *
+ncplane_userptr_const	../src/lib/notcurses.c	/^const void* ncplane_userptr_const(const ncplane* n){$/;"	f	typeref:typename:const void *
+ncplane_visual_open	../src/lib/libav.c	/^ncvisual* ncplane_visual_open(ncplane* nc, const char* filename, int* averr){$/;"	f	typeref:typename:ncvisual *
+ncplane_vline	../include/notcurses.h	/^ncplane_vline(struct ncplane* n, const cell* c, int len){$/;"	f	typeref:typename:int
+ncplane_vline_interp	../src/lib/notcurses.c	/^int ncplane_vline_interp(ncplane* n, const cell* c, int len,$/;"	f	typeref:typename:int
+ncplane_vprintf	../include/notcurses.h	/^ncplane_vprintf(struct ncplane* n, const char* format, va_list ap){$/;"	f	typeref:typename:int
+ncplane_vprintf_aligned	../src/lib/notcurses.c	/^int ncplane_vprintf_aligned(ncplane* n, int y, ncalign_e align,$/;"	f	typeref:typename:int
+ncplane_vprintf_prep	../src/lib/notcurses.c	/^char* ncplane_vprintf_prep(ncplane* n, const char* format, va_list ap){$/;"	f	typeref:typename:char *
+ncplane_vprintf_yx	../src/lib/notcurses.c	/^int ncplane_vprintf_yx(ncplane* n, int y, int x, const char* format, va_list ap){$/;"	f	typeref:typename:int
+ncplane_yx	../src/lib/notcurses.c	/^void ncplane_yx(const ncplane* n, int* y, int* x){$/;"	f	typeref:typename:void
+ncscale_e	../include/notcurses.h	/^} ncscale_e;$/;"	t	typeref:enum:__anon4422f1ff0203
+ncstats	../include/notcurses.h	/^typedef struct ncstats {$/;"	s
+ncstats	../include/notcurses.h	/^} ncstats;$/;"	t	typeref:struct:ncstats
+ncview	../src/view/view.cpp	/^int ncview(struct notcurses* nc, struct ncvisual* ncv, int* averr){$/;"	f	typeref:typename:int
+ncvisual	../src/lib/internal.h	/^typedef struct ncvisual {$/;"	s
+ncvisual	../src/lib/internal.h	/^} ncvisual;$/;"	t	typeref:struct:ncvisual
+ncvisual_create	../src/lib/libav.c	/^ncvisual_create(void){$/;"	f	typeref:typename:ncvisual *	file:
+ncvisual_decode	../src/lib/libav.c	/^AVFrame* ncvisual_decode(struct ncvisual* nc, int* averr){$/;"	f	typeref:typename:AVFrame *
+ncvisual_destroy	../src/lib/libav.c	/^void ncvisual_destroy(ncvisual* ncv){$/;"	f	typeref:typename:void
+ncvisual_init	../src/lib/libav.c	/^int ncvisual_init(void){$/;"	f	typeref:typename:int
+ncvisual_open	../src/lib/libav.c	/^ncvisual_open(const char* filename, int* averr){$/;"	f	typeref:typename:ncvisual *	file:
+ncvisual_open_plane	../src/lib/libav.c	/^ncvisual* ncvisual_open_plane(notcurses* nc, const char* filename,$/;"	f	typeref:typename:ncvisual *
+ncvisual_plane	../src/lib/libav.c	/^ncplane* ncvisual_plane(ncvisual* ncv){$/;"	f	typeref:typename:ncplane *
+ncvisual_render	../src/lib/libav.c	/^int ncvisual_render(const ncvisual* ncv, int begy, int begx, int leny, int lenx){$/;"	f	typeref:typename:int
+ncvisual_simple_streamer	../include/notcurses.h	/^ncvisual_simple_streamer(struct notcurses* nc, struct ncvisual* ncv __attribute__ ((unused))){$/;"	f	typeref:typename:int
+ncvisual_stream	../src/lib/libav.c	/^int ncvisual_stream(notcurses* nc, ncvisual* ncv, int* averr, streamcb streamer){$/;"	f	typeref:typename:int
+new_tabletctx	../src/demo/panelreel.c	/^new_tabletctx(struct panelreel* pr, unsigned *id){$/;"	f	typeref:typename:tabletctx *	file:
+next	../src/demo/input.c	/^  struct nciqueue *next;$/;"	m	struct:nciqueue	typeref:struct:nciqueue *	file:
+next	../src/demo/panelreel.c	/^  struct tabletctx* next;$/;"	m	struct:tabletctx	typeref:struct:tabletctx *	file:
+next	../src/lib/panelreel.c	/^  struct tablet* next;$/;"	m	struct:tablet	typeref:struct:tablet *	file:
+ni	../src/demo/input.c	/^  ncinput ni;$/;"	m	struct:nciqueue	typeref:typename:ncinput	file:
+no_quit_sighandlers	../include/notcurses.h	/^  bool no_quit_sighandlers;$/;"	m	struct:notcurses_options	typeref:typename:bool
+no_winch_sighandler	../include/notcurses.h	/^  bool no_winch_sighandler;$/;"	m	struct:notcurses_options	typeref:typename:bool
+notcurses	../src/lib/internal.h	/^typedef struct notcurses {$/;"	s
+notcurses	../src/lib/internal.h	/^} notcurses;$/;"	t	typeref:struct:notcurses
+notcurses_add_input_escape	../src/lib/input.c	/^notcurses_add_input_escape(notcurses* nc, const char* esc, char32_t special){$/;"	f	typeref:typename:int	file:
+notcurses_cursor_disable	../src/lib/notcurses.c	/^void notcurses_cursor_disable(notcurses* nc){$/;"	f	typeref:typename:void
+notcurses_cursor_enable	../src/lib/notcurses.c	/^void notcurses_cursor_enable(notcurses* nc){$/;"	f	typeref:typename:void
+notcurses_getc	../src/lib/input.c	/^char32_t notcurses_getc(notcurses* nc, const struct timespec *ts,$/;"	f	typeref:typename:char32_t
+notcurses_getc_blocking	../include/notcurses.h	/^notcurses_getc_blocking(struct notcurses* n, ncinput* ni){$/;"	f	typeref:typename:char32_t
+notcurses_getc_nblock	../include/notcurses.h	/^notcurses_getc_nblock(struct notcurses* n, ncinput* ni){$/;"	f	typeref:typename:char32_t
+notcurses_init	../src/lib/notcurses.c	/^notcurses* notcurses_init(const notcurses_options* opts, FILE* outfp){$/;"	f	typeref:typename:notcurses *
+notcurses_mouse_disable	../src/lib/notcurses.c	/^int notcurses_mouse_disable(notcurses* n){$/;"	f	typeref:typename:int
+notcurses_mouse_enable	../src/lib/notcurses.c	/^int notcurses_mouse_enable(notcurses* n){$/;"	f	typeref:typename:int
+notcurses_newplane	../src/lib/notcurses.c	/^ncplane* notcurses_newplane(notcurses* nc, int rows, int cols,$/;"	f	typeref:typename:ncplane *
+notcurses_options	../include/notcurses.h	/^typedef struct notcurses_options {$/;"	s
+notcurses_options	../include/notcurses.h	/^} notcurses_options;$/;"	t	typeref:struct:notcurses_options
+notcurses_palette_size	../src/lib/notcurses.c	/^int notcurses_palette_size(const notcurses* nc){$/;"	f	typeref:typename:int
+notcurses_refresh	../src/lib/render.c	/^int notcurses_refresh(notcurses* nc){$/;"	f	typeref:typename:int
+notcurses_render	../src/lib/render.c	/^int notcurses_render(notcurses* nc){$/;"	f	typeref:typename:int
+notcurses_render_internal	../src/lib/render.c	/^notcurses_render_internal(notcurses* nc){$/;"	f	typeref:typename:int	file:
+notcurses_reset_stats	../src/lib/notcurses.c	/^void notcurses_reset_stats(notcurses* nc){$/;"	f	typeref:typename:void
+notcurses_resize	../src/lib/notcurses.c	/^int notcurses_resize(notcurses* n, int* rows, int* cols){$/;"	f	typeref:typename:int
+notcurses_stats	../src/lib/notcurses.c	/^void notcurses_stats(const notcurses* nc, ncstats* stats){$/;"	f	typeref:typename:void
+notcurses_stdplane	../src/lib/notcurses.c	/^ncplane* notcurses_stdplane(notcurses* nc){$/;"	f	typeref:typename:ncplane *
+notcurses_stdplane_const	../src/lib/notcurses.c	/^const ncplane* notcurses_stdplane_const(const notcurses* nc){$/;"	f	typeref:typename:const ncplane *
+notcurses_stop	../src/lib/notcurses.c	/^int notcurses_stop(notcurses* nc){$/;"	f	typeref:typename:int
+notcurses_supported_styles	../src/lib/notcurses.c	/^unsigned notcurses_supported_styles(const notcurses* nc){$/;"	f	typeref:typename:unsigned
+notcurses_term_dim_yx	../include/notcurses.h	/^notcurses_term_dim_yx(const struct notcurses* n, int* RESTRICT rows,$/;"	f	typeref:typename:void
+notcurses_top	../src/lib/notcurses.c	/^ncplane* notcurses_top(notcurses* n){$/;"	f	typeref:typename:ncplane *
+notcurses_version	../src/lib/notcurses.c	/^const char* notcurses_version(void){$/;"	f	typeref:typename:const char *
+ns_to_timespec	../src/demo/demo.h	/^ns_to_timespec(uint64_t ns, struct timespec* ts){$/;"	f	typeref:struct:timespec *
+oframe	../src/lib/internal.h	/^  struct AVFrame* oframe;$/;"	m	struct:ncvisual	typeref:struct:AVFrame *
+on	../src/demo/outro.c	/^static struct ncplane* on;$/;"	v	typeref:struct:ncplane *	file:
+op	../src/lib/internal.h	/^  char* op;       \/\/ set foreground and background color to default$/;"	m	struct:notcurses	typeref:typename:char *
+opts	../src/planereel/main.cpp	/^  struct notcurses_options opts{};$/;"	s	function:main	file:
+outfp_	../tests/cell.cpp	/^  FILE* outfp_{};$/;"	m	class:CellTest	typeref:typename:FILE *	file:
+outfp_	../tests/fade.cpp	/^  FILE* outfp_{};$/;"	m	class:FadeTest	typeref:typename:FILE *	file:
+outfp_	../tests/input.cpp	/^  FILE* outfp_{};$/;"	m	class:InputTest	typeref:typename:FILE *	file:
+outfp_	../tests/libav.cpp	/^  FILE* outfp_{};$/;"	m	class:LibavTest	typeref:typename:FILE *	file:
+outfp_	../tests/ncplane.cpp	/^  FILE* outfp_{};$/;"	m	class:NcplaneTest	typeref:typename:FILE *	file:
+outfp_	../tests/notcurses.cpp	/^  FILE* outfp_{};$/;"	m	class:NotcursesTest	typeref:typename:FILE *	file:
+outfp_	../tests/panelreel.cpp	/^  FILE* outfp_{};$/;"	m	class:PanelReelTest	typeref:typename:FILE *	file:
+outfp_	../tests/zaxis.cpp	/^  FILE* outfp_{};$/;"	m	class:ZAxisTest	typeref:typename:FILE *	file:
+outro	../src/demo/outro.c	/^int outro(struct notcurses* nc){$/;"	f	typeref:typename:int
+outro_message	../src/demo/outro.c	/^outro_message(struct notcurses* nc, int* rows, int* cols){$/;"	f	typeref:struct:ncplane *	file:
+outzoomed_map	../src/demo/eagle.c	/^outzoomed_map(struct notcurses* nc, const char* map){$/;"	f	typeref:struct:ncvisual *	file:
+p	../src/lib/panelreel.c	/^  ncplane* p;                    \/\/ visible panel, NULL when offscreen$/;"	m	struct:tablet	typeref:typename:ncplane *	file:
+p	../src/lib/panelreel.c	/^  ncplane* p;                \/\/ ncplane this panelreel occupies, under tablets$/;"	m	struct:panelreel	typeref:typename:ncplane *	file:
+packet	../src/lib/internal.h	/^  struct AVPacket* packet;$/;"	m	struct:ncvisual	typeref:struct:AVPacket *
+packet_outstanding	../src/lib/internal.h	/^  int packet_outstanding;$/;"	m	struct:ncvisual	typeref:typename:int
+panelcb	../tests/panelreel.cpp	/^int panelcb(struct tablet* t, int begx, int begy, int maxx, int maxy, bool cliptop){$/;"	f	typeref:typename:int
+panelreel	../src/lib/panelreel.c	/^typedef struct panelreel {$/;"	s	file:
+panelreel	../src/lib/panelreel.c	/^} panelreel;$/;"	t	typeref:struct:panelreel	file:
+panelreel_add	../src/lib/panelreel.c	/^tablet* panelreel_add(panelreel* pr, tablet* after, tablet *before,$/;"	f	typeref:typename:tablet *
+panelreel_arrange_denormalized	../src/lib/panelreel.c	/^panelreel_arrange_denormalized(panelreel* pr){$/;"	f	typeref:typename:int	file:
+panelreel_create	../src/lib/panelreel.c	/^panelreel* panelreel_create(ncplane* w, const panelreel_options* popts, int efd){$/;"	f	typeref:typename:panelreel *
+panelreel_del	../src/lib/panelreel.c	/^int panelreel_del(panelreel* pr, struct tablet* t){$/;"	f	typeref:typename:int
+panelreel_del_focused	../src/lib/panelreel.c	/^int panelreel_del_focused(panelreel* pr){$/;"	f	typeref:typename:int
+panelreel_demo	../src/demo/panelreel.c	/^int panelreel_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+panelreel_demo_core	../src/demo/panelreel.c	/^panelreel_demo_core(struct notcurses* nc, int efd, tabletctx** tctxs){$/;"	f	typeref:struct:panelreel *	file:
+panelreel_destroy	../src/lib/panelreel.c	/^int panelreel_destroy(panelreel* preel){$/;"	f	typeref:typename:int
+panelreel_draw_tablet	../src/lib/panelreel.c	/^panelreel_draw_tablet(const panelreel* pr, tablet* t, int frontiery,$/;"	f	typeref:typename:int	file:
+panelreel_focused	../src/lib/panelreel.c	/^tablet* panelreel_focused(panelreel* pr){$/;"	f	typeref:typename:tablet *
+panelreel_move	../src/lib/panelreel.c	/^int panelreel_move(panelreel* preel, int x, int y){$/;"	f	typeref:typename:int
+panelreel_next	../src/lib/panelreel.c	/^tablet* panelreel_next(panelreel* pr){$/;"	f	typeref:typename:tablet *
+panelreel_options	../include/notcurses.h	/^typedef struct panelreel_options {$/;"	s
+panelreel_options	../include/notcurses.h	/^} panelreel_options;$/;"	t	typeref:struct:panelreel_options
+panelreel_plane	../src/lib/panelreel.c	/^ncplane* panelreel_plane(panelreel* pr){$/;"	f	typeref:typename:ncplane *
+panelreel_prev	../src/lib/panelreel.c	/^tablet* panelreel_prev(panelreel* pr){$/;"	f	typeref:typename:tablet *
+panelreel_redraw	../src/lib/panelreel.c	/^int panelreel_redraw(panelreel* pr){$/;"	f	typeref:typename:int
+panelreel_tabletcount	../src/lib/panelreel.c	/^int panelreel_tabletcount(const panelreel* preel){$/;"	f	typeref:typename:int
+panelreel_touch	../src/lib/panelreel.c	/^int panelreel_touch(panelreel* pr, tablet* t){$/;"	f	typeref:typename:int
+pass_along	../src/demo/input.c	/^pass_along(const ncinput* ni){$/;"	f	typeref:typename:int	file:
+perframe	../src/demo/outro.c	/^perframe(struct notcurses* nc, struct ncvisual* ncv __attribute__ ((unused))){$/;"	f	typeref:typename:int	file:
+perframecb	../src/demo/xray.c	/^perframecb(struct notcurses* nc, struct ncvisual* ncv __attribute__ ((unused))){$/;"	f	typeref:typename:int	file:
+pivot_on	../src/poc/sgr.c	/^pivot_on(int pivot, int* sgrs, int sgrcount){$/;"	f	typeref:typename:int	file:
+placex	../src/lib/internal.h	/^  int placex, placey;$/;"	m	struct:ncvisual	typeref:typename:int
+placey	../src/lib/internal.h	/^  int placex, placey;$/;"	m	struct:ncvisual	typeref:typename:int
+planepalette	../src/lib/fade.c	/^typedef struct planepalette {$/;"	s	file:
+planepalette	../src/lib/fade.c	/^} planepalette;$/;"	t	typeref:struct:planepalette	file:
+play	../src/demo/sliding.c	/^play(struct notcurses* nc, struct ncplane** chunks){$/;"	f	typeref:typename:int	file:
+ponce	../src/lib/enmetric.c	/^static pthread_once_t ponce = PTHREAD_ONCE_INIT;$/;"	v	typeref:typename:pthread_once_t	file:
+pool	../src/lib/egcpool.h	/^  char* pool;         \/\/ ringbuffer of attached extension storage$/;"	m	struct:egcpool	typeref:typename:char *
+pool	../src/lib/internal.h	/^  egcpool pool;         \/\/ attached storage pool for UTF-8 EGCs$/;"	m	struct:ncplane	typeref:typename:egcpool
+pool	../src/lib/internal.h	/^  egcpool pool;   \/\/ duplicate EGCs into this pool$/;"	m	struct:notcurses	typeref:typename:egcpool
+pool_	../tests/egcpool.cpp	/^  egcpool pool_{};$/;"	m	class:EGCPoolTest	typeref:typename:egcpool	file:
+pool_release	../src/lib/render.c	/^pool_release(egcpool* pool, cell* c){$/;"	f	typeref:typename:void	file:
+poolsize	../src/lib/egcpool.h	/^  int poolsize;       \/\/ total number of bytes in pool$/;"	m	struct:egcpool	typeref:typename:int
+poolused	../src/lib/egcpool.h	/^  int poolused;       \/\/ bytes actively used, grow when this gets too large$/;"	m	struct:egcpool	typeref:typename:int
+poolwrite	../src/lib/egcpool.h	/^  int poolwrite;      \/\/ next place to *look for* a place to write$/;"	m	struct:egcpool	typeref:typename:int
+pop_input_keypress	../src/lib/input.c	/^pop_input_keypress(notcurses* nc){$/;"	f	typeref:typename:int	file:
+popts	../src/lib/panelreel.c	/^  panelreel_options popts; \/\/ copied in panelreel_create()$/;"	m	struct:panelreel	typeref:typename:panelreel_options	file:
+popts	../src/planereel/main.cpp	/^  struct panelreel_options popts{};$/;"	s	function:main	file:
+pr	../src/demo/panelreel.c	/^  struct panelreel* pr;$/;"	m	struct:tabletctx	typeref:struct:panelreel *	file:
+prep_cells	../src/demo/grid.c	/^prep_cells(struct ncplane* n,$/;"	f	typeref:typename:int	file:
+prep_cells2	../src/demo/grid.c	/^prep_cells2(struct ncplane* n,$/;"	f	typeref:typename:int	file:
+prep_optimized_palette	../src/lib/render.c	/^prep_optimized_palette(notcurses* nc, FILE* out __attribute__ ((unused))){$/;"	f	typeref:typename:int	file:
+prep_special_keys	../src/lib/input.c	/^int prep_special_keys(notcurses* nc){$/;"	f	typeref:typename:int
+prev	../src/lib/panelreel.c	/^  struct tablet* prev;$/;"	m	struct:tablet	typeref:struct:tablet *	file:
+prevx	../src/demo/witherworm.c	/^  int prevx, prevy;$/;"	m	struct:snake	typeref:typename:int	file:
+prevy	../src/demo/witherworm.c	/^  int prevx, prevy;$/;"	m	struct:snake	typeref:typename:int	file:
+printutf8	../src/input/input.cpp	/^char32_t printutf8(char32_t kp){$/;"	f	typeref:typename:char32_t
+qprefix	../include/notcurses.h	/^qprefix(uintmax_t val, unsigned decimal, char *buf, int omitdec){$/;"	f	typeref:typename:const char *
+queue	../src/demo/input.c	/^static nciqueue* queue;$/;"	v	typeref:typename:nciqueue *	file:
+r	../tests/channel.cpp	/^    int r, g, b;$/;"	m	struct:TEST_F::t	typeref:typename:int	file:
+release_cells	../src/demo/grid.c	/^release_cells(struct ncplane* n,$/;"	f	typeref:typename:void	file:
+render_bytes	../include/notcurses.h	/^  uint64_t render_bytes;     \/\/ bytes emitted to ttyfp$/;"	m	struct:ncstats	typeref:typename:uint64_t
+render_max_bytes	../include/notcurses.h	/^  int64_t render_max_bytes;  \/\/ max bytes emitted for a frame$/;"	m	struct:ncstats	typeref:typename:int64_t
+render_max_ns	../include/notcurses.h	/^  int64_t render_max_ns;     \/\/ max ns spent in notcurses_render()$/;"	m	struct:ncstats	typeref:typename:int64_t
+render_min_bytes	../include/notcurses.h	/^  int64_t render_min_bytes;  \/\/ min bytes emitted for a frame$/;"	m	struct:ncstats	typeref:typename:int64_t
+render_min_ns	../include/notcurses.h	/^  int64_t render_min_ns;     \/\/ min ns spent in successful notcurses_render()$/;"	m	struct:ncstats	typeref:typename:int64_t
+render_ns	../include/notcurses.h	/^  uint64_t render_ns;        \/\/ nanoseconds spent in notcurses_render()$/;"	m	struct:ncstats	typeref:typename:uint64_t
+renderfp	../include/notcurses.h	/^  FILE* renderfp;$/;"	m	struct:notcurses_options	typeref:typename:FILE *
+renderfp	../src/lib/internal.h	/^  FILE* renderfp; \/\/ debugging FILE* to which renderings are written$/;"	m	struct:notcurses	typeref:typename:FILE *
+renders	../include/notcurses.h	/^  uint64_t renders;          \/\/ number of successful notcurses_render() runs$/;"	m	struct:ncstats	typeref:typename:uint64_t
+renderstate	../src/lib/render.c	/^typedef struct renderstate {$/;"	s	file:
+renderstate	../src/lib/render.c	/^} renderstate;$/;"	t	typeref:struct:renderstate	file:
+reset_stats	../src/lib/notcurses.c	/^reset_stats(ncstats* stats){$/;"	f	typeref:typename:void	file:
+reshape_shadow_fb	../src/lib/render.c	/^reshape_shadow_fb(notcurses* nc){$/;"	f	typeref:typename:int	file:
+resize_seen	../src/lib/input.c	/^sig_atomic_t resize_seen = 0;$/;"	v	typeref:typename:sig_atomic_t
+retain_cursor	../include/notcurses.h	/^  bool retain_cursor;$/;"	m	struct:notcurses_options	typeref:typename:bool
+reverse	../src/lib/internal.h	/^  char* reverse;  \/\/ CELL_STYLE_REVERSE$/;"	m	struct:notcurses	typeref:typename:char *
+rgb	../src/demo/panelreel.c	/^  unsigned rgb;$/;"	m	struct:tabletctx	typeref:typename:unsigned	file:
+rgb_quantize_256	../src/lib/internal.h	/^rgb_quantize_256(unsigned r, unsigned g, unsigned b){$/;"	f	typeref:typename:int
+rmcup	../src/lib/internal.h	/^  char* rmcup;    \/\/ restore primary mode$/;"	m	struct:notcurses	typeref:typename:char *
+rmkx	../src/lib/internal.h	/^  char* rmkx;     \/\/ leave keypad transmit mode (keypad_local)$/;"	m	struct:notcurses	typeref:typename:char *
+roff	../include/notcurses.h	/^  int toff, roff, boff, loff;$/;"	m	struct:panelreel_options	typeref:typename:int
+rows	../src/lib/fade.c	/^  int rows;                     \/\/ number of rows when allocated$/;"	m	struct:planepalette	typeref:typename:int	file:
+selector	../src/demo/demo.c	/^  char selector;$/;"	m	struct:demoresult	typeref:typename:char	file:
+setab	../src/lib/internal.h	/^  char* setab;    \/\/ set background color (ANSI)$/;"	m	struct:notcurses	typeref:typename:char *
+setaf	../src/lib/internal.h	/^  char* setaf;    \/\/ set foreground color (ANSI)$/;"	m	struct:notcurses	typeref:typename:char *
+setup_signals	../src/lib/notcurses.c	/^setup_signals(notcurses* nc, bool no_quit_sigs, bool no_winch_sig){$/;"	f	typeref:typename:int	file:
+sgr	../src/lib/internal.h	/^  char* sgr;      \/\/ set many graphics properties at once$/;"	m	struct:notcurses	typeref:typename:char *
+sgr0	../src/lib/internal.h	/^  char* sgr0;     \/\/ restore default presentation properties$/;"	m	struct:notcurses	typeref:typename:char *
+signal_sa_handler	../src/lib/notcurses.c	/^static void (*signal_sa_handler)(int); \/\/ stashed signal handler we replaced$/;"	v	typeref:typename:void (*)(int)	file:
+sigwinch_handler	../src/lib/notcurses.c	/^sigwinch_handler(int signo){$/;"	f	typeref:typename:void	file:
+sliding_puzzle_demo	../src/demo/sliding.c	/^int sliding_puzzle_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+smcup	../src/lib/internal.h	/^  char* smcup;    \/\/ enter alternate mode$/;"	m	struct:notcurses	typeref:typename:char *
+smkx	../src/lib/internal.h	/^  char* smkx;     \/\/ enter keypad transmit mode (keypad_xmit)$/;"	m	struct:notcurses	typeref:typename:char *
+snake	../src/demo/witherworm.c	/^typedef struct snake {$/;"	s	file:
+snake	../src/demo/witherworm.c	/^} snake;$/;"	t	typeref:struct:snake	file:
+snake_thread	../src/demo/witherworm.c	/^snake_thread(void* vnc){$/;"	f	typeref:typename:void *	file:
+snakey	../src/demo/witherworm.c	/^snakey(struct notcurses* nc, snake* s, int dimy, int dimx){$/;"	f	typeref:typename:int	file:
+snakey_top	../src/demo/witherworm.c	/^snakey_top(struct notcurses* nc, snake* s){$/;"	f	typeref:typename:int	file:
+special	../src/lib/input.c	/^  char32_t special;       \/\/ composed key terminating here$/;"	m	struct:esctrie	typeref:typename:char32_t	file:
+standout	../src/lib/internal.h	/^  char* standout; \/\/ CELL_STYLE_STANDOUT$/;"	m	struct:notcurses	typeref:typename:char *
+start	../src/demo/unicodeblocks.c	/^    uint32_t start;$/;"	m	struct:unicodeblocks_demo::__anonf0080f910108	typeref:typename:uint32_t	file:
+stash_stats	../src/lib/notcurses.c	/^stash_stats(notcurses* nc){$/;"	f	typeref:typename:void	file:
+stashstats	../src/lib/internal.h	/^  ncstats stashstats; \/\/ cumulative stats, unaffected by notcurses_reset_stats()$/;"	m	struct:notcurses	typeref:typename:ncstats
+stats	../src/demo/demo.c	/^  struct ncstats stats;$/;"	m	struct:demoresult	typeref:struct:ncstats	file:
+stats	../src/lib/internal.h	/^  ncstats stats;  \/\/ some statistics across the lifetime of the notcurses ctx$/;"	m	struct:notcurses	typeref:typename:ncstats
+stdscr	../src/lib/internal.h	/^  ncplane* stdscr;\/\/ aliases some plane from the z-buffer, covers screen$/;"	m	struct:notcurses	typeref:typename:ncplane *
+stop_input	../src/demo/input.c	/^int stop_input(void){$/;"	f	typeref:typename:int
+stream_index	../src/lib/internal.h	/^  int stream_index;        \/\/ match against this following av_read_frame()$/;"	m	struct:ncvisual	typeref:typename:int
+streamcb	../include/notcurses.h	/^typedef int (*streamcb)(struct notcurses* nc, struct ncvisual* ncv);$/;"	t	typeref:typename:int (*)(struct notcurses * nc,struct ncvisual * ncv)
+style	../src/lib/internal.h	/^  ncscale_e style;         \/\/ none, scale, or stretch$/;"	m	struct:ncvisual	typeref:typename:ncscale_e
+subtcodec	../src/lib/internal.h	/^  struct AVCodec* subtcodec;$/;"	m	struct:ncvisual	typeref:struct:AVCodec *
+subtitle	../src/lib/internal.h	/^  struct AVPacket* subtitle;$/;"	m	struct:ncvisual	typeref:struct:AVPacket *
+suffixes	../tests/enmetric.cpp	/^const char suffixes[] = "\\0KMGTPE";$/;"	v	typeref:typename:const char[]
+suppress_banner	../src/lib/internal.h	/^  bool suppress_banner; \/\/ from notcurses_options$/;"	m	struct:notcurses	typeref:typename:bool
+suppress_bannner	../include/notcurses.h	/^  bool suppress_bannner;$/;"	m	struct:notcurses_options	typeref:typename:bool
+suppuabize	../include/notcurses.h	/^#define suppuabize(/;"	d
+swsctx	../src/lib/internal.h	/^  struct SwsContext* swsctx;$/;"	m	struct:ncvisual	typeref:struct:SwsContext *
+t	../src/demo/panelreel.c	/^  struct tablet* t;$/;"	m	struct:tabletctx	typeref:struct:tablet *	file:
+t	../tests/channel.cpp	/^  const struct t {$/;"	s	function:TEST_F	file:
+tablet	../src/lib/panelreel.c	/^typedef struct tablet {$/;"	s	file:
+tablet	../src/lib/panelreel.c	/^} tablet;$/;"	t	typeref:struct:tablet	file:
+tablet_columns	../src/lib/panelreel.c	/^tablet_columns(const panelreel* pr, int* begx, int* begy, int* lenx, int* leny,$/;"	f	typeref:typename:int	file:
+tablet_ncplane	../src/lib/panelreel.c	/^ncplane* tablet_ncplane(tablet* t){$/;"	f	typeref:typename:ncplane *
+tablet_ncplane_const	../src/lib/panelreel.c	/^const ncplane* tablet_ncplane_const(const tablet* t){$/;"	f	typeref:typename:const ncplane *
+tablet_thread	../src/demo/panelreel.c	/^tablet_thread(void* vtabletctx){$/;"	f	typeref:typename:void *	file:
+tablet_userptr	../src/lib/panelreel.c	/^void* tablet_userptr(tablet* t){$/;"	f	typeref:typename:void *
+tablet_userptr_const	../src/lib/panelreel.c	/^const void* tablet_userptr_const(const tablet* t){$/;"	f	typeref:typename:const void *
+tabletcb	../include/notcurses.h	/^typedef int (*tabletcb)(struct tablet* t, int begx, int begy, int maxx,$/;"	t	typeref:typename:int (*)(struct tablet * t,int begx,int begy,int maxx,int maxy,bool cliptop)
+tabletchan	../include/notcurses.h	/^  uint64_t tabletchan; \/\/ tablet border styling channel$/;"	m	struct:panelreel_options	typeref:typename:uint64_t
+tabletcount	../src/lib/panelreel.c	/^  int tabletcount;         \/\/ could be derived, but we keep it o(1)$/;"	m	struct:panelreel	typeref:typename:int	file:
+tabletctx	../src/demo/panelreel.c	/^typedef struct tabletctx {$/;"	s	file:
+tabletctx	../src/demo/panelreel.c	/^} tabletctx;$/;"	t	typeref:struct:tabletctx	file:
+tabletdown	../src/demo/panelreel.c	/^tabletdown(struct ncplane* w, int begx, int begy, int maxx, int maxy,$/;"	f	typeref:typename:int	file:
+tabletdraw	../src/demo/panelreel.c	/^tabletdraw(struct tablet* t, int begx, int begy, int maxx, int maxy, bool cliptop){$/;"	f	typeref:typename:int	file:
+tabletfxn	../src/planereel/main.cpp	/^int tabletfxn(struct tablet* t, int begx, int begy, int maxx, int maxy,$/;"	f	typeref:typename:int
+tabletmask	../include/notcurses.h	/^  unsigned tabletmask; \/\/ bitfield; same as bordermask but for tablet borders$/;"	m	struct:panelreel_options	typeref:typename:unsigned
+tablets	../src/lib/panelreel.c	/^  tablet* tablets;$/;"	m	struct:panelreel	typeref:typename:tablet *	file:
+tabletup	../src/demo/panelreel.c	/^tabletup(struct ncplane* w, int begx, int begy, int maxx, int maxy,$/;"	f	typeref:typename:int	file:
+targy	../src/demo/outro.c	/^static int targy;$/;"	v	typeref:typename:int	file:
+term_bg_rgb8	../src/lib/render.c	/^term_bg_rgb8(notcurses* nc, FILE* out, unsigned r, unsigned g, unsigned b){$/;"	f	typeref:typename:int	file:
+term_emit	../src/lib/internal.h	/^term_emit(const char* name __attribute__ ((unused)), const char* seq,$/;"	f	typeref:typename:int
+term_esc_rgb	../src/lib/render.c	/^term_esc_rgb(notcurses* nc __attribute__ ((unused)), FILE* out, int esc,$/;"	f	typeref:typename:int	file:
+term_fg_rgb8	../src/lib/render.c	/^term_fg_rgb8(notcurses* nc, FILE* out, unsigned r, unsigned g, unsigned b){$/;"	f	typeref:typename:int	file:
+term_putc	../src/lib/render.c	/^term_putc(FILE* out, const ncplane* n, const cell* c){$/;"	f	typeref:typename:int	file:
+term_setstyle	../src/lib/render.c	/^term_setstyle(FILE* out, unsigned cur, unsigned targ, unsigned stylebit,$/;"	f	typeref:typename:int	file:
+term_setstyles	../src/lib/render.c	/^term_setstyles(const notcurses* nc, FILE* out, uint32_t* curattr, const cell* c,$/;"	f	typeref:typename:int	file:
+term_verify_seq	../src/lib/notcurses.c	/^term_verify_seq(char** gseq, const char* name){$/;"	f	typeref:typename:int	file:
+termtype	../include/notcurses.h	/^  const char* termtype;$/;"	m	struct:notcurses_options	typeref:typename:const char *
+tid	../src/demo/input.c	/^static pthread_t tid;$/;"	v	typeref:typename:pthread_t	file:
+tid	../src/demo/panelreel.c	/^  pthread_t tid;$/;"	m	struct:tabletctx	typeref:typename:pthread_t	file:
+timens	../src/demo/demo.c	/^  uint64_t timens;$/;"	m	struct:demoresult	typeref:typename:uint64_t	file:
+timespec_div	../src/demo/demo.h	/^timespec_div(const struct timespec* ts, unsigned divisor, struct timespec* quots){$/;"	f	typeref:typename:void
+timespec_mul	../src/demo/demo.h	/^timespec_mul(const struct timespec* ts, unsigned multiplier, struct timespec* product){$/;"	f	typeref:typename:void
+timespec_subtract	../src/demo/demo.c	/^int timespec_subtract(struct timespec *result, const struct timespec *time0,$/;"	f	typeref:typename:int
+timespec_subtract_ns	../src/demo/demo.h	/^timespec_subtract_ns(const struct timespec* time1, const struct timespec* time0){$/;"	f	typeref:typename:int64_t
+timespec_to_ns	../src/demo/demo.h	/^timespec_to_ns(const struct timespec* ts){$/;"	f	typeref:typename:uint64_t
+timespec_to_ns	../src/lib/render.c	/^timespec_to_ns(const struct timespec* t){$/;"	f	typeref:typename:uint64_t	file:
+tinfo	../src/lib/input.c	/^    const char* tinfo;$/;"	m	struct:prep_special_keys::__anonb03b5a4e0208	typeref:typename:const char *	file:
+toff	../include/notcurses.h	/^  int toff, roff, boff, loff;$/;"	m	struct:panelreel_options	typeref:typename:int
+top	../src/lib/internal.h	/^  ncplane* top;   \/\/ the contents of our topmost plane (initially entire screen)$/;"	m	struct:notcurses	typeref:typename:ncplane *
+tpreserved	../src/lib/internal.h	/^  struct termios tpreserved; \/\/ terminal state upon entry$/;"	m	struct:notcurses	typeref:struct:termios
+trie	../src/lib/input.c	/^  struct esctrie** trie;  \/\/ if non-NULL, next level of radix-128 trie$/;"	m	struct:esctrie	typeref:struct:esctrie **	file:
+ttyfd	../src/lib/internal.h	/^  int ttyfd;      \/\/ file descriptor for controlling tty, from opts->ttyfp$/;"	m	struct:notcurses	typeref:typename:int
+ttyfp	../src/lib/internal.h	/^  FILE* ttyfp;    \/\/ FILE* for controlling tty, from opts->ttyfp$/;"	m	struct:notcurses	typeref:typename:FILE *
+ttyinfp	../src/lib/internal.h	/^  FILE* ttyinfp;  \/\/ FILE* for processing input$/;"	m	struct:notcurses	typeref:typename:FILE *
+uline	../src/lib/internal.h	/^  char* uline;    \/\/ CELL_STYLE_UNDERLINK$/;"	m	struct:notcurses	typeref:typename:char *
+ultramegaok_demo	../src/demo/input.c	/^ultramegaok_demo(void* vnc){$/;"	f	typeref:typename:void *	file:
+unicodeblocks_demo	../src/demo/unicodeblocks.c	/^int unicodeblocks_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+unpop_keypress	../src/lib/input.c	/^unpop_keypress(notcurses* nc, int kpress){$/;"	f	typeref:typename:void	file:
+update_render_stats	../src/lib/render.c	/^update_render_stats(const struct timespec* time1, const struct timespec* time0,$/;"	f	typeref:typename:void	file:
+update_term_dimensions	../src/lib/notcurses.c	/^update_term_dimensions(notcurses* n, int* rows, int* cols){$/;"	f	typeref:typename:int	file:
+usage	../src/demo/demo.c	/^usage(const char* exe, int status){$/;"	f	typeref:typename:void	file:
+usage	../src/view/view.cpp	/^void usage(std::ostream& o, const char* name, int exitcode){$/;"	f	typeref:typename:void
+userptr	../src/lib/internal.h	/^  void* userptr;        \/\/ slot for the user to stick some opaque pointer$/;"	m	struct:ncplane	typeref:typename:void *
+utf8_egc_len	../src/lib/egcpool.h	/^utf8_egc_len(const char* gcluster, int* colcount){$/;"	f	typeref:typename:int
+validate_panelreel_opts	../src/lib/panelreel.c	/^validate_panelreel_opts(ncplane* w, const panelreel_options* popts){$/;"	f	typeref:typename:bool	file:
+view_demo	../src/demo/view.c	/^int view_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+view_video_demo	../src/demo/view.c	/^view_video_demo(struct notcurses* nc){$/;"	f	typeref:typename:int	file:
+visible_cell	../src/lib/render.c	/^visible_cell(cell* c, int y, int x, ncplane* n){$/;"	f	typeref:typename:ncplane *	file:
+wall_p	../src/demo/witherworm.c	/^wall_p(const struct ncplane* n, const cell* c){$/;"	f	typeref:typename:bool	file:
+watch_for_keystroke	../src/demo/view.c	/^watch_for_keystroke(struct notcurses* nc, struct ncvisual* ncv __attribute__ ((unused))){$/;"	f	typeref:typename:int	file:
+wchar_from_utf8	../src/lib/notcurses.c	/^wchar_t* wchar_from_utf8(const char* s){$/;"	f	typeref:typename:wchar_t *
+wchar_supppuab_p	../include/notcurses.h	/^wchar_supppuab_p(char32_t w){$/;"	f	typeref:typename:bool
+window_coordinates	../src/lib/panelreel.c	/^window_coordinates(const ncplane* w, int* begy, int* begx, int* leny, int* lenx){$/;"	f	typeref:typename:void	file:
+witherworm_demo	../src/demo/witherworm.c	/^int witherworm_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+wresize	../src/lib/panelreel.c	/^int wresize(ncplane* n, int leny, int lenx){$/;"	f	typeref:typename:int
+x	../include/notcurses.h	/^  int x;           \/\/ x cell coordinate of event, -1 for undefined$/;"	m	struct:ncinput	typeref:typename:int
+x	../src/demo/witherworm.c	/^  int x, y;$/;"	m	struct:snake	typeref:typename:int	file:
+x	../src/lib/internal.h	/^  int x, y;             \/\/ current location within this plane$/;"	m	struct:ncplane	typeref:typename:int
+xoff	../src/demo/eagle.c	/^    int yoff, xoff;$/;"	m	struct:eagles::eagle	typeref:typename:int	file:
+xray_demo	../src/demo/xray.c	/^int xray_demo(struct notcurses* nc){$/;"	f	typeref:typename:int
+xstart	../src/demo/outro.c	/^static int xstart;$/;"	v	typeref:typename:int	file:
+y	../include/notcurses.h	/^  int y;           \/\/ y cell coordinate of event, -1 for undefined$/;"	m	struct:ncinput	typeref:typename:int
+y	../src/demo/outro.c	/^static int y;$/;"	v	typeref:typename:int	file:
+y	../src/demo/witherworm.c	/^  int x, y;$/;"	m	struct:snake	typeref:typename:int	file:
+y	../src/lib/internal.h	/^  int x, y;             \/\/ current location within this plane$/;"	m	struct:ncplane	typeref:typename:int
+yoff	../src/demo/eagle.c	/^    int yoff, xoff;$/;"	m	struct:eagles::eagle	typeref:typename:int	file:
+z	../src/lib/internal.h	/^  struct ncplane* z;    \/\/ plane below us$/;"	m	struct:ncplane	typeref:struct:ncplane *
+zoom_map	../src/demo/eagle.c	/^zoom_map(struct notcurses* nc, const char* map){$/;"	f	typeref:struct:ncplane *	file:

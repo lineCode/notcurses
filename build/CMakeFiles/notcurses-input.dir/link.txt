@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/notcurses-input.dir/src/input/input.cpp.o  -o notcurses-input -Wl,-rpath,/home/dank/src/dankamongmen/notcurses-1.0.0/build: libnotcurses.so.0.9.2 
