@@ -1,4 +1,3 @@
-#include <assert.h>
 #include <ctype.h>
 #include <wctype.h>
 #include <unistd.h>
