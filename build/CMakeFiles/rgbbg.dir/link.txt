@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/rgbbg.dir/src/poc/rgbbg.c.o  -o rgbbg  -L/home/dank/src/dankamongmen/notcurses-1.0.0 -Wl,-rpath,/home/dank/src/dankamongmen/notcurses-1.0.0:/home/dank/src/dankamongmen/notcurses-1.0.0/build libnotcurses.so.0.9.2 -ltinfo 

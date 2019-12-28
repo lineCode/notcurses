@@ -1,9 +1,0 @@
-Term: xterm with 256 colors
-Warning: advertised RGB flag but only 256 colors
-
-1 render, 0.00142s total (0.00142s min, 0.00142s max, 0.0014s avg 704.7 fps)
-6.75KiB total (6.75KiB min, 6.75KiB max, 6.75KiB avg)
-0 failed renders
-Emits/elides: def 1/2239 fg 0/0 bg 0/0
- Elide rates: 99.96% 0.00% 0.00%
-Cells emitted: 2240 elided: 3360 (60.00%)
